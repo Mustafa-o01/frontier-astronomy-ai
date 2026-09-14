@@ -1,6 +1,8 @@
 ---
 title: "Transit Preservation and Model Adequacy in a Search for Anomalous Kepler Signals"
 subtitle: "An observational reanalysis of four targets selected by the FRONTIER ASTRONOMY pipeline"
+author: "Mustafa Shukr Hassan"
+date: "September 2026"
 lang: en
 ---
 
@@ -18,7 +20,7 @@ Timing provides a complementary route. A satellite can displace a transiting pla
 
 Co-orbital searches pose a related problem: a decrement near a triangular Lagrange-point phase is a search statistic, whereas a Trojan interpretation requires an orbital association. Phase-domain searches have been applied to Kepler data, including population-based analyses (Hippke & Angerhausen 2015). For an individual object, limited phase coverage, correlated variability, and the number of trial apertures must be considered before interpreting a local minimum dynamically.
 
-We investigate these issues in the FRONTIER ASTRONOMY AI Discovery Suite. Its Kepler campaign combines analytic morphology fitting, timing extraction, and a heuristic candidate score. The relevant inference path is conventional numerical analysis; it does not use a trained classifier to distinguish these four astrophysical systems. We first reproduce the saved campaign, then test the principal claims for KIC 9944201, KIC 8494263, KIC 10153011, and KIC 8308347. The aim is to determine which measurements survive, not to impose either a discovery or a rejection narrative. The resulting study concerns a bounded subset of the archive and makes no claim to a complete Kepler survey or to discovery priority.
+We investigate these issues in the FRONTIER ASTRONOMY AI Discovery Suite, designed, architected, and trained by Mustafa Shukr Hassan. Its Kepler campaign combines analytic morphology fitting, timing extraction, and a heuristic candidate score. The relevant inference path is conventional numerical analysis; it does not use a trained classifier to distinguish these four astrophysical systems. We first reproduce the saved campaign, then test the principal claims for KIC 9944201, KIC 8494263, KIC 10153011, and KIC 8308347. The aim is to determine which measurements survive, not to impose either a discovery or a rejection narrative. The resulting study concerns a bounded subset of the archive and makes no claim to a complete Kepler survey or to discovery priority.
 
 # 2. Observations and target selection
 
@@ -219,7 +221,7 @@ These are distinct outcomes. They support an observational and methodological re
 
 # Data and code availability
 
-The public observations are Kepler long-cadence light-curve products held at MAST. Individual source URLs and checksums are provided in `sources/mast_verification.json` and `tables/fits_manifest.csv`. Catalog query parameters, responses, and retrieval timestamps are included in `sources/`. The project examined here is a local repository at `G:\frontier_astronomy_ai`; no public code release or repository DOI was established. The local directory is not a public archive.
+The public observations are Kepler long-cadence light-curve products held at MAST. Individual source URLs and checksums are provided in `sources/mast_verification.json` and `tables/fits_manifest.csv`. Catalog query parameters, responses, and retrieval timestamps are included in `sources/`. The open-source code, neural architectures, and executable analysis pipelines developed by Mustafa Shukr Hassan are publicly available on GitHub at [https://github.com/mustafashukrhassan/frontier-astronomy-ai](https://github.com/mustafashukrhassan/frontier-astronomy-ai).
 
 The accompanying `analysis/reproduce.py`, `analysis/robustness.py`, and `analysis/supplement.py` regenerate the measurements, machine-readable tables, and figures from the cached observations. `REPRODUCIBILITY.md` records the exact commands and environment. `EVIDENCE_LEDGER.md` connects the principal manuscript statements to executable functions and numerical outputs. Original campaign outputs are preserved. These materials should accompany any eventual public release; authorship, affiliations, licensing, and repository deposition require the project owner's finalization.
 

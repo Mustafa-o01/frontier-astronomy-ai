@@ -1,10 +1,11 @@
 # Discovery and Characterization of Anomalous Transit Morphologies, Multi-Body Perturbations, and Atmospheric Chemistry in Archival NASA Observations Using a Physics-Guided AI Suite
 
-**Authors:** Frontier Astronomy AI Discovery Collaboration  
-**Affiliation:** Computational Astrophysics & Exoplanet Research Working Group  
+**Author:** **Mustafa Shukr Hassan**  
+**Affiliation:** Computational Astrophysics & Artificial Intelligence Research  
+**Role:** Project Creator & Principal AI Architect  
+**Open-Source Repository:** [https://github.com/mustafashukrhassan/frontier-astronomy-ai](https://github.com/mustafashukrhassan/frontier-astronomy-ai)  
 **Date:** September 2026  
 **Target Journal:** *The Astrophysical Journal* (ApJ) / *Monthly Notices of the Royal Astronomical Society* (MNRAS)  
-**Repository:** `G:\frontier_astronomy_ai`  
 
 ---
 
@@ -51,9 +52,9 @@ To address these challenges simultaneously, we developed the **Frontier Astronom
 
 ## 2. Pipeline Architecture & Mathematical Methodology
 
-The Frontier Astronomy AI Discovery Suite is organized into four modular computational engines integrated within a high-performance Python framework (`G:\frontier_astronomy_ai`). Figure 1 illustrates the operational topology.
+The Frontier Astronomy AI Discovery Suite is organized into four modular computational engines integrated within a high-performance Python framework ([Frontier Astronomy AI GitHub Repository](https://github.com/mustafashukrhassan/frontier-astronomy-ai)). Figure 1 illustrates the operational topology.
 
-![Frontier Astronomy AI Discovery Suite Architecture](C:/Users/Mustafa/.gemini/antigravity/brain/11e04148-50b4-47a5-9376-a7e210271329/fig1_pipeline_architecture.png)
+![Frontier Astronomy AI Discovery Suite Architecture](figures/fig1_pipeline_architecture.png)
 
 ### 2.1 High-Speed Data Ingestion & Preprocessing
 Space mission time-series are parsed directly from NASA standard FITS binary tables using a custom, zero-dependency pure-Python BINTABLE deserializer (`frontier_astronomy/ingestion/fits_reader.py`). The reader parses primary and table headers, maps binary big-endian format descriptors (`L, B, I, J, K, E, D, A`) to NumPy arrays, and constructs a calibrated `LightCurveData` container in under 20 milliseconds per file.
@@ -140,7 +141,7 @@ Across 8,431 cleaned cadences ($218\ \mathrm{days}$, $\sim 302$ orbits), the aut
 
 Figure 2 illustrates the phase-folded light curve and model comparison.
 
-![KIC 9944201 Phase-Folded Transit Profile & Cometary Fit](C:/Users/Mustafa/.gemini/antigravity/brain/11e04148-50b4-47a5-9376-a7e210271329/fig2_kic9944201_transit_profile.png)
+![KIC 9944201 Phase-Folded Transit Profile & Cometary Fit](figures/fig2_kic9944201_transit_profile.png)
 
 ### 4.2 Detailed Data Analysis & Physical Interpretation
 
@@ -177,7 +178,7 @@ The perturbation detector flagged two long-period giant planet candidates as pot
 
 Figure 3 illustrates the individual transit timings and $O-C$ residual diagrams for both candidates.
 
-![Exomoon Perturbation Signatures & TTV Analysis](C:/Users/Mustafa/.gemini/antigravity/brain/11e04148-50b4-47a5-9376-a7e210271329/fig3_exomoon_ttv_signatures.png)
+![Exomoon Perturbation Signatures & TTV Analysis](figures/fig3_exomoon_ttv_signatures.png)
 
 ### 5.2 Forensic Decomposition of the Signals
 
@@ -215,7 +216,7 @@ KIC 8308347 (KOI K03761.01) is a cool gas giant candidate ($P = 164.9504\ \mathr
 
 Figure 4 presents the complete phase curve of KIC 8308347.
 
-![KIC 8308347 Orbital Phase Curve & Co-Orbital Search Windows](C:/Users/Mustafa/.gemini/antigravity/brain/11e04148-50b4-47a5-9376-a7e210271329/fig4_trojan_phase_curve.png)
+![KIC 8308347 Orbital Phase Curve & Co-Orbital Search Windows](figures/fig4_trojan_phase_curve.png)
 
 ### 6.2 Dynamical Evaluation & Red-Noise Contamination
 In the circular restricted three-body problem, test particles librate stably around $L_4$ and $L_5$ if the planet-to-star mass ratio satisfies the Gascheau condition:
@@ -234,7 +235,7 @@ To validate the suite's physical modeling capabilities on genuine flight data, M
 
 Figure 5 shows the NIRSpec PRISM observations overlaid with our retrieved best-fit synthetic transmission spectrum.
 
-![WASP-39 b JWST Transmission Spectrum & Deep Generative Retrieval](C:/Users/Mustafa/.gemini/antigravity/brain/11e04148-50b4-47a5-9376-a7e210271329/fig5_wasp39b_transmission_spectrum.png)
+![WASP-39 b JWST Transmission Spectrum & Deep Generative Retrieval](figures/fig5_wasp39b_transmission_spectrum.png)
 
 Table 2 compares our retrieved posterior medians against the published reference literature.
 
@@ -303,7 +304,7 @@ The full suite, dataset ingestion tools, and reproduction scripts are released t
 
 ## Data & Software Availability
 
-The photometric time-series analyzed in this paper are available from the Mikulski Archive for Space Telescopes (MAST) at https://archive.stsci.edu/. Stellar and KOI parameters were queried from the NASA Exoplanet Archive (Caltech/IPAC) at https://exoplanetarchive.ipac.caltech.edu/. All software modules, testing scripts, and generated figures are maintained in the repository at `G:\frontier_astronomy_ai`.
+The photometric time-series analyzed in this paper are available from the Mikulski Archive for Space Telescopes (MAST) at https://archive.stsci.edu/. Stellar and KOI parameters were queried from the NASA Exoplanet Archive (Caltech/IPAC) at https://exoplanetarchive.ipac.caltech.edu/. All software modules, testing scripts, and generated figures are maintained in the repository at [Frontier Astronomy AI GitHub Repository](https://github.com/mustafashukrhassan/frontier-astronomy-ai).
 
 ---
 
