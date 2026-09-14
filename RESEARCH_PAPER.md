@@ -3,7 +3,7 @@
 **Author:** **Mustafa Shukr Hassan**  
 **Affiliation:** Computational Astrophysics & Artificial Intelligence Research  
 **Role:** Project Creator & Principal AI Architect  
-**Open-Source Repository:** [https://github.com/mustafashukrhassan/frontier-astronomy-ai](https://github.com/mustafashukrhassan/frontier-astronomy-ai)  
+**Open-Source Repository:** [https://github.com/Mustafa-o01/frontier-astronomy-ai](https://github.com/Mustafa-o01/frontier-astronomy-ai)  
 **Date:** September 2026  
 **Target Journal:** *The Astrophysical Journal* (ApJ) / *Monthly Notices of the Royal Astronomical Society* (MNRAS)  
 
@@ -52,7 +52,7 @@ To address these challenges simultaneously, we developed the **Frontier Astronom
 
 ## 2. Pipeline Architecture & Mathematical Methodology
 
-The Frontier Astronomy AI Discovery Suite is organized into four modular computational engines integrated within a high-performance Python framework ([Frontier Astronomy AI GitHub Repository](https://github.com/mustafashukrhassan/frontier-astronomy-ai)). Figure 1 illustrates the operational topology.
+The Frontier Astronomy AI Discovery Suite is organized into four modular computational engines integrated within a high-performance Python framework ([Frontier Astronomy AI GitHub Repository](https://github.com/Mustafa-o01/frontier-astronomy-ai)). Figure 1 illustrates the operational topology.
 
 ![Frontier Astronomy AI Discovery Suite Architecture](figures/fig1_pipeline_architecture.png)
 
@@ -304,7 +304,7 @@ The full suite, dataset ingestion tools, and reproduction scripts are released t
 
 ## Data & Software Availability
 
-The photometric time-series analyzed in this paper are available from the Mikulski Archive for Space Telescopes (MAST) at https://archive.stsci.edu/. Stellar and KOI parameters were queried from the NASA Exoplanet Archive (Caltech/IPAC) at https://exoplanetarchive.ipac.caltech.edu/. All software modules, testing scripts, and generated figures are maintained in the repository at [Frontier Astronomy AI GitHub Repository](https://github.com/mustafashukrhassan/frontier-astronomy-ai).
+The photometric time-series analyzed in this paper are available from the Mikulski Archive for Space Telescopes (MAST) at https://archive.stsci.edu/. Stellar and KOI parameters were queried from the NASA Exoplanet Archive (Caltech/IPAC) at https://exoplanetarchive.ipac.caltech.edu/. All software modules, testing scripts, and generated figures are maintained in the repository at [Frontier Astronomy AI GitHub Repository](https://github.com/Mustafa-o01/frontier-astronomy-ai).
 
 ---
 
