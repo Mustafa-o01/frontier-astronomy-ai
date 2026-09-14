@@ -1,0 +1,522 @@
+[
+  {
+    "kepid": 9944201,
+    "koi_name": "K07259.01",
+    "period_days": 0.721522907,
+    "t0_bkjd": 131.7091421,
+    "catalog_depth_ppm": 22528.0,
+    "cadences": 8431,
+    "baseline_days": 217.98351139686565,
+    "dust_tail": {
+      "is_detected": true,
+      "delta_bic": 73042.74909952105,
+      "asymmetry_alpha": 0.5339847457186919,
+      "lrt_p_value": 0.0,
+      "tail_decay_length": 0.041142816458262135,
+      "depth_variance": 6.3001810064859455e-06
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.001,
+      "ttv_snr": 15.227424763664855,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": false
+    },
+    "verdict": "EVAPORATING CRUST / DUST TAIL (dBIC=+73042.7, alpha=0.53) + STRONG TTV OSCILLATION (SNR=15.2)",
+    "runtime_seconds": 2.513977499998873
+  },
+  {
+    "kepid": 5475431,
+    "koi_name": "K01546.01",
+    "period_days": 0.917568975,
+    "t0_bkjd": 133.932419,
+    "catalog_depth_ppm": 15805.0,
+    "cadences": 8900,
+    "baseline_days": 217.98371499381756,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -51599.11266212491,
+      "asymmetry_alpha": 0.10223328426216725,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.047970524753649116,
+      "depth_variance": 9.10419656816321e-06
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "p_moon_posterior": 0.9820526655095426,
+      "ttv_snr": 36.75275416278404,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": false
+    },
+    "verdict": "EXOMOON ORBITAL PERTURBATION (P=98.2%, TTV SNR=36.8)",
+    "runtime_seconds": 10.520124000002397
+  },
+  {
+    "kepid": 8616873,
+    "koi_name": "K01251.01",
+    "period_days": 0.576078683,
+    "t0_bkjd": 134.107265,
+    "catalog_depth_ppm": 10084.8,
+    "cadences": 6432,
+    "baseline_days": 217.9832099653504,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -346.92731307847134,
+      "asymmetry_alpha": -0.4062318517428443,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.04911391187722186,
+      "depth_variance": 4.530302035908083e-06
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.001,
+      "ttv_snr": 12.240585039332185,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": false
+    },
+    "verdict": "STRONG TTV OSCILLATION (SNR=12.2)",
+    "runtime_seconds": 11.307573500002036
+  },
+  {
+    "kepid": 9574614,
+    "koi_name": "K01745.01",
+    "period_days": 0.982090079,
+    "t0_bkjd": 131.701452,
+    "catalog_depth_ppm": 5396.7,
+    "cadences": 8923,
+    "baseline_days": 217.9830684123517,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -90.14956841678395,
+      "asymmetry_alpha": 0.21977329889522815,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.03408070498609966,
+      "depth_variance": 1.055644366228357e-06
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "p_moon_posterior": 0.9988778395753298,
+      "ttv_snr": 11.490145766507569,
+      "orthogonal_phase_diff_deg": 90.5770235480764,
+      "is_trojan_candidate": false
+    },
+    "verdict": "EXOMOON ORBITAL PERTURBATION (P=99.9%, TTV SNR=11.5)",
+    "runtime_seconds": 9.781757899996592
+  },
+  {
+    "kepid": 7811211,
+    "koi_name": "K06918.01",
+    "period_days": 0.902403563,
+    "t0_bkjd": 131.827273,
+    "catalog_depth_ppm": 4759.5,
+    "cadences": 8915,
+    "baseline_days": 217.98295489903103,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -2352.452322760553,
+      "asymmetry_alpha": 0.003935869035307451,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.03773504878039688,
+      "depth_variance": 6.189406506925663e-07
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "p_moon_posterior": 0.999,
+      "ttv_snr": 16.58751666672988,
+      "orthogonal_phase_diff_deg": 103.5260594837091,
+      "is_trojan_candidate": true
+    },
+    "verdict": "EXOMOON ORBITAL PERTURBATION (P=99.9%, TTV SNR=16.6) + CO-ORBITAL TROJAN COMPANION",
+    "runtime_seconds": 10.176348899985896
+  },
+  {
+    "kepid": 9084778,
+    "koi_name": "K01631.01",
+    "period_days": 0.592243731,
+    "t0_bkjd": 131.654831,
+    "catalog_depth_ppm": 3992.4,
+    "cadences": 9088,
+    "baseline_days": 217.98346333695372,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -134.04851574874192,
+      "asymmetry_alpha": 0.04931017479396376,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.05020868222631484,
+      "depth_variance": 5.790757313722522e-07
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "p_moon_posterior": 0.999,
+      "ttv_snr": 15.673969003692523,
+      "orthogonal_phase_diff_deg": 85.19316075576137,
+      "is_trojan_candidate": false
+    },
+    "verdict": "EXOMOON ORBITAL PERTURBATION (P=99.9%, TTV SNR=15.7)",
+    "runtime_seconds": 10.591787499986822
+  },
+  {
+    "kepid": 12307496,
+    "koi_name": "K08078.01",
+    "period_days": 0.805941833,
+    "t0_bkjd": 132.127874,
+    "catalog_depth_ppm": 3180.4,
+    "cadences": 8199,
+    "baseline_days": 217.77997066669195,
+    "dust_tail": {
+      "is_detected": true,
+      "delta_bic": 301.5635200684774,
+      "asymmetry_alpha": 0.018321381535226004,
+      "lrt_p_value": 6.415951222556814e-71,
+      "tail_decay_length": 0.023335667678623308,
+      "depth_variance": 1.5368523614699025e-06
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.0011493112206203634,
+      "ttv_snr": 4.529632569575457,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": true
+    },
+    "verdict": "EVAPORATING CRUST / DUST TAIL (dBIC=+301.6, alpha=0.02) + STRONG TTV OSCILLATION (SNR=4.5) + CO-ORBITAL TROJAN COMPANION",
+    "runtime_seconds": 9.721936400019331
+  },
+  {
+    "kepid": 8110757,
+    "koi_name": "K07865.01",
+    "period_days": 0.518060209,
+    "t0_bkjd": 131.9425,
+    "catalog_depth_ppm": 2258.4,
+    "cadences": 3299,
+    "baseline_days": 85.82080525427591,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -174.96424543860485,
+      "asymmetry_alpha": 0.10655673147945895,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.07057988659096129,
+      "depth_variance": 1.5919001683759318e-07
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "p_moon_posterior": 0.999,
+      "ttv_snr": 15.268294574483651,
+      "orthogonal_phase_diff_deg": 86.81467357068958,
+      "is_trojan_candidate": false
+    },
+    "verdict": "EXOMOON ORBITAL PERTURBATION (P=99.9%, TTV SNR=15.3)",
+    "runtime_seconds": 4.958030800014967
+  },
+  {
+    "kepid": 11180361,
+    "koi_name": "K00971.01",
+    "period_days": 0.533059312,
+    "t0_bkjd": 171.2274419,
+    "catalog_depth_ppm": 1495.8,
+    "cadences": 7099,
+    "baseline_days": 217.98354845739232,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -70483.64074508846,
+      "asymmetry_alpha": 0.16341841477412616,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.06428056345248685,
+      "depth_variance": 1.7686726098059645e-07
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "p_moon_posterior": 0.999,
+      "ttv_snr": 10.461798241053545,
+      "orthogonal_phase_diff_deg": 81.96805174762335,
+      "is_trojan_candidate": false
+    },
+    "verdict": "EXOMOON ORBITAL PERTURBATION (P=99.9%, TTV SNR=10.5)",
+    "runtime_seconds": 11.54855239999597
+  },
+  {
+    "kepid": 5951140,
+    "koi_name": "K06635.01",
+    "period_days": 0.52740121,
+    "t0_bkjd": 131.6718,
+    "catalog_depth_ppm": 1316.0,
+    "cadences": 8912,
+    "baseline_days": 217.41059636943828,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -168.21151481743436,
+      "asymmetry_alpha": 0.3018760755002142,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.2676026703234455,
+      "depth_variance": 8.580280426241213e-07
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.001,
+      "ttv_snr": 10.083413215274744,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": true
+    },
+    "verdict": "STRONG TTV OSCILLATION (SNR=10.1) + CO-ORBITAL TROJAN COMPANION",
+    "runtime_seconds": 10.255773599987151
+  },
+  {
+    "kepid": 11805075,
+    "koi_name": "K00436.01",
+    "period_days": 199.83920527,
+    "t0_bkjd": 225.35896,
+    "catalog_depth_ppm": 44490.0,
+    "cadences": 9093,
+    "baseline_days": 217.98376891966473,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -27.18765375441035,
+      "asymmetry_alpha": -0.6160006216848134,
+      "lrt_p_value": 0.984047894401064,
+      "tail_decay_length": 0.013555864711378743,
+      "depth_variance": 0.0
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.01,
+      "ttv_snr": 0.0,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": false
+    },
+    "verdict": "Symmetric Planet Transit (Standard)",
+    "runtime_seconds": 9.643474299984518
+  },
+  {
+    "kepid": 6690171,
+    "koi_name": "K03320.01",
+    "period_days": 85.0624157,
+    "t0_bkjd": 149.220739,
+    "catalog_depth_ppm": 41901.0,
+    "cadences": 12041,
+    "baseline_days": 276.8995793582435,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -27.78715035845198,
+      "asymmetry_alpha": 0.16755367756371226,
+      "lrt_p_value": 0.9400217916010529,
+      "tail_decay_length": 0.013420742880327304,
+      "depth_variance": 1.2309841136990862e-07
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.001,
+      "ttv_snr": 2.6946836387628013,
+      "orthogonal_phase_diff_deg": 2.350653262789016,
+      "is_trojan_candidate": false
+    },
+    "verdict": "Symmetric Planet Transit (Standard)",
+    "runtime_seconds": 9.562869399989722
+  },
+  {
+    "kepid": 3345675,
+    "koi_name": "K01772.01",
+    "period_days": 120.00336404,
+    "t0_bkjd": 250.137832,
+    "catalog_depth_ppm": 39596.0,
+    "cadences": 8535,
+    "baseline_days": 217.98276727234042,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -26.96935295523872,
+      "asymmetry_alpha": 0.3685878038122791,
+      "lrt_p_value": 0.9797482432211417,
+      "tail_decay_length": 0.007047299120949833,
+      "depth_variance": 3.38835581788007e-08
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.01,
+      "ttv_snr": 0.0,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": false
+    },
+    "verdict": "Symmetric Planet Transit (Standard)",
+    "runtime_seconds": 11.528036399977282
+  },
+  {
+    "kepid": 8308347,
+    "koi_name": "K03761.01",
+    "period_days": 164.950399,
+    "t0_bkjd": 280.9154,
+    "catalog_depth_ppm": 24493.0,
+    "cadences": 8115,
+    "baseline_days": 276.5316437049769,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -9906.038500597642,
+      "asymmetry_alpha": -0.09405753081333032,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.03039557311303018,
+      "depth_variance": 5.276168709593149e-05
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.01,
+      "ttv_snr": 0.0,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": true
+    },
+    "verdict": "CO-ORBITAL TROJAN COMPANION",
+    "runtime_seconds": 10.261942999990424
+  },
+  {
+    "kepid": 11853130,
+    "koi_name": "K03263.01",
+    "period_days": 76.87935893,
+    "t0_bkjd": 146.882451,
+    "catalog_depth_ppm": 21272.0,
+    "cadences": 9083,
+    "baseline_days": 217.98365440034104,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -31.33501977130436,
+      "asymmetry_alpha": 0.08860756123990966,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.01818669134681522,
+      "depth_variance": 3.946279961274586e-07
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.43636461930410647,
+      "ttv_snr": 5.167386455177173,
+      "orthogonal_phase_diff_deg": 60.07630798511601,
+      "is_trojan_candidate": false
+    },
+    "verdict": "STRONG TTV OSCILLATION (SNR=5.2)",
+    "runtime_seconds": 9.531932600017171
+  },
+  {
+    "kepid": 9512981,
+    "koi_name": "K01466.01",
+    "period_days": 281.5628889,
+    "t0_bkjd": 357.996571,
+    "catalog_depth_ppm": 21012.0,
+    "cadences": 9108,
+    "baseline_days": 217.98303841421875,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -26.204521569999997,
+      "asymmetry_alpha": 0.8305729902802836,
+      "lrt_p_value": 0.7659336310425445,
+      "tail_decay_length": 0.04390023154538021,
+      "depth_variance": 0.0
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.01,
+      "ttv_snr": 0.0,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": false
+    },
+    "verdict": "Symmetric Planet Transit (Standard)",
+    "runtime_seconds": 9.220947900001192
+  },
+  {
+    "kepid": 6867155,
+    "koi_name": "K00868.01",
+    "period_days": 235.9986399,
+    "t0_bkjd": 208.399822,
+    "catalog_depth_ppm": 20714.6,
+    "cadences": 9098,
+    "baseline_days": 217.98328758456773,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -29.600902753334594,
+      "asymmetry_alpha": -0.454547278968232,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.018185599782613547,
+      "depth_variance": 0.0
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.01,
+      "ttv_snr": 0.0,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": true
+    },
+    "verdict": "CO-ORBITAL TROJAN COMPANION",
+    "runtime_seconds": 9.28053479999653
+  },
+  {
+    "kepid": 8494263,
+    "koi_name": "K01255.01",
+    "period_days": 78.9257421,
+    "t0_bkjd": 429.37454,
+    "catalog_depth_ppm": 17972.0,
+    "cadences": 10111,
+    "baseline_days": 276.8992941450124,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -1049.751281782521,
+      "asymmetry_alpha": -0.35192703835761796,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.011699830212625658,
+      "depth_variance": 2.8291054994102124e-05
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "p_moon_posterior": 0.999,
+      "ttv_snr": 50.10649881353681,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": false
+    },
+    "verdict": "EXOMOON ORBITAL PERTURBATION (P=99.9%, TTV SNR=50.1)",
+    "runtime_seconds": 8.267214799998328
+  },
+  {
+    "kepid": 7984047,
+    "koi_name": "K01552.01",
+    "period_days": 77.63424586,
+    "t0_bkjd": 417.153212,
+    "catalog_depth_ppm": 16612.0,
+    "cadences": 11799,
+    "baseline_days": 276.8178050114948,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -28.189008106784968,
+      "asymmetry_alpha": 0.8460303175446333,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.005171964351204635,
+      "depth_variance": 4.94004865049901e-08
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "p_moon_posterior": 0.0022744704605768174,
+      "ttv_snr": 1.6395263498285613,
+      "orthogonal_phase_diff_deg": 42.587887447360984,
+      "is_trojan_candidate": false
+    },
+    "verdict": "Symmetric Planet Transit (Standard)",
+    "runtime_seconds": 10.473119100002805
+  },
+  {
+    "kepid": 10153011,
+    "koi_name": "K01773.01",
+    "period_days": 83.09708021,
+    "t0_bkjd": 162.935743,
+    "catalog_depth_ppm": 15860.2,
+    "cadences": 11286,
+    "baseline_days": 272.43779258716677,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -105.7226526551276,
+      "asymmetry_alpha": 0.3247394737524484,
+      "lrt_p_value": 1.0,
+      "tail_decay_length": 0.0132851683541607,
+      "depth_variance": 3.7027859228958016e-07
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "p_moon_posterior": 0.999,
+      "ttv_snr": 40.28148881459125,
+      "orthogonal_phase_diff_deg": 0.0,
+      "is_trojan_candidate": false
+    },
+    "verdict": "EXOMOON ORBITAL PERTURBATION (P=99.9%, TTV SNR=40.3)",
+    "runtime_seconds": 9.424284000007901
+  }
+]

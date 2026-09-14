@@ -1,0 +1,62 @@
+[
+  {
+    "kepid": 8494263,
+    "kepoi_name": "K01255.01",
+    "koi_disposition": "CANDIDATE",
+    "koi_pdisposition": "CANDIDATE",
+    "koi_score": 0.436,
+    "koi_period": 78.9257421,
+    "koi_time0bk": 429.37454,
+    "koi_duration": 7.5193,
+    "koi_depth": 17972,
+    "koi_teq": 398.0,
+    "koi_prad": 11.9,
+    "koi_srad": 0.882,
+    "koi_steff": 5750.0
+  },
+  {
+    "kepid": 10153011,
+    "kepoi_name": "K01773.01",
+    "koi_disposition": "CANDIDATE",
+    "koi_pdisposition": "CANDIDATE",
+    "koi_score": 0.0,
+    "koi_period": 83.09708021,
+    "koi_time0bk": 162.935743,
+    "koi_duration": 9.2639,
+    "koi_depth": 15860.2,
+    "koi_teq": 329.0,
+    "koi_prad": 13.83,
+    "koi_srad": 0.636,
+    "koi_steff": 5286.0
+  },
+  {
+    "kepid": 8308347,
+    "kepoi_name": "K03761.01",
+    "koi_disposition": "CANDIDATE",
+    "koi_pdisposition": "CANDIDATE",
+    "koi_score": 0.0,
+    "koi_period": 164.950399,
+    "koi_time0bk": 280.9154,
+    "koi_duration": 30.86,
+    "koi_depth": 24493,
+    "koi_teq": 252.0,
+    "koi_prad": 11.23,
+    "koi_srad": 0.664,
+    "koi_steff": 5001.0
+  },
+  {
+    "kepid": 9944201,
+    "kepoi_name": "K07259.01",
+    "koi_disposition": "CANDIDATE",
+    "koi_pdisposition": "CANDIDATE",
+    "koi_score": 0.705,
+    "koi_period": 0.721522907,
+    "koi_time0bk": 131.7091421,
+    "koi_duration": 1.4521,
+    "koi_depth": 22528,
+    "koi_teq": 1475.0,
+    "koi_prad": 11.04,
+    "koi_srad": 0.625,
+    "koi_steff": 4893.0
+  }
+]

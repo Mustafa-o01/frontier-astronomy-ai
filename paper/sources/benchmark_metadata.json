@@ -1,0 +1,16 @@
+{
+  "Kepler_1625b_kepler.parquet": {
+    "target_id": "Kepler-1625b",
+    "mission": "Kepler",
+    "ra": "295.4293",
+    "dec": "39.8865",
+    "user_metadata": "{\"is_synthetic\": true, \"model_type\": \"exomoon_perturbation\", \"period_planet\": 287.3789, \"t0_planet\": 169.825, \"ttv_amp_minutes\": 65.0, \"tdv_amp_minutes\": 25.0, \"secondary_shoulder_depth\": 0.0006}"
+  },
+  "KIC_12557548_kepler.parquet": {
+    "target_id": "KIC 12557548",
+    "mission": "Kepler",
+    "ra": "290.96622",
+    "dec": "51.50472",
+    "user_metadata": "{\"is_synthetic\": true, \"model_type\": \"disintegrating_dust_tail\", \"period_days\": 0.6535538, \"t0_days\": 120.5683, \"mean_depth\": 0.01, \"tail_scale\": 0.055, \"forward_scat_amp\": 0.0013, \"noise_ppm\": 220.0}"
+  }
+}

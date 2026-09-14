@@ -1,0 +1,176 @@
+
+@page {
+    size: letter;
+    margin: 22mm 20mm 22mm 20mm;
+    @bottom-center {
+        content: counter(page);
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 9pt;
+        color: #666;
+    }
+}
+
+body {
+    font-family: 'Charter', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Times New Roman', serif;
+    font-size: 10.5pt;
+    line-height: 1.55;
+    color: #1a1a1a;
+    background-color: #ffffff;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin-bottom: 2.5em;
+    text-align: center;
+    border-bottom: 1.5px solid #333;
+    padding-bottom: 1.5em;
+}
+
+h1.title {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 20pt;
+    font-weight: 700;
+    line-height: 1.25;
+    margin-bottom: 0.3em;
+    color: #0b1a30;
+}
+
+p.subtitle {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    font-style: italic;
+    color: #444;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+h1 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 13pt;
+    font-weight: 700;
+    margin-top: 1.8em;
+    margin-bottom: 0.5em;
+    color: #0b1a30;
+    border-bottom: 0.5px solid #ccc;
+    padding-bottom: 3px;
+    break-after: avoid;
+}
+
+h2 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    font-weight: 600;
+    margin-top: 1.3em;
+    margin-bottom: 0.4em;
+    color: #1a2a40;
+    break-after: avoid;
+}
+
+h3 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 10.5pt;
+    font-weight: 600;
+    font-style: italic;
+    margin-top: 1em;
+    margin-bottom: 0.3em;
+    break-after: avoid;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0.8em;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Abstract styling */
+#abstract + p, section#abstract > p {
+    font-size: 10pt;
+    line-height: 1.5;
+    background-color: #f8f9fa;
+    border-left: 3px solid #0b1a30;
+    padding: 10px 14px;
+    margin-bottom: 1.5em;
+    font-style: normal;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    font-size: 9.5pt;
+    line-height: 1.4;
+    break-inside: avoid;
+}
+
+th, td {
+    padding: 6px 8px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+th {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    background-color: #f1f4f8;
+    border-top: 2px solid #0b1a30;
+    border-bottom: 1.5px solid #0b1a30;
+    text-align: left;
+}
+
+tr:last-child td {
+    border-bottom: 2px solid #0b1a30;
+}
+
+/* Figures */
+figure {
+    margin: 1.8em auto;
+    text-align: center;
+    break-inside: avoid;
+    max-width: 100%;
+}
+
+figure img {
+    max-width: 95%;
+    height: auto;
+    border: 1px solid #e5e5e5;
+    border-radius: 2px;
+}
+
+figcaption, p:has(> img) + p {
+    font-size: 9pt;
+    line-height: 1.4;
+    color: #444;
+    margin-top: 0.5em;
+    text-align: justify;
+}
+
+/* Math */
+math {
+    font-size: 1.05em;
+}
+
+/* Links */
+a {
+    color: #0b4a8b;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Print optimizations */
+@media print {
+    body {
+        font-size: 10pt;
+    }
+    figure, table {
+        break-inside: avoid;
+    }
+    h1, h2, h3 {
+        break-after: avoid;
+    }
+}

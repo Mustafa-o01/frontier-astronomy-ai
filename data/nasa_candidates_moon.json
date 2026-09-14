@@ -1,0 +1,3666 @@
+[
+  {
+    "kepid": 10866969,
+    "kepoi_name": "K07383.01",
+    "koi_period": 50.0122,
+    "koi_time0bk": 153.9789,
+    "koi_depth": 210.4,
+    "koi_duration": 3.426
+  },
+  {
+    "kepid": 2994092,
+    "kepoi_name": "K06301.01",
+    "koi_period": 50.271927,
+    "koi_time0bk": 160.466,
+    "koi_depth": 574.5,
+    "koi_duration": 6.073
+  },
+  {
+    "kepid": 7206422,
+    "kepoi_name": "K05373.01",
+    "koi_period": 50.550788,
+    "koi_time0bk": 131.5846,
+    "koi_depth": 154.5,
+    "koi_duration": 2.353
+  },
+  {
+    "kepid": 5697395,
+    "kepoi_name": "K05192.01",
+    "koi_period": 50.55398,
+    "koi_time0bk": 160.0628,
+    "koi_depth": 199.7,
+    "koi_duration": 6.159
+  },
+  {
+    "kepid": 5460434,
+    "kepoi_name": "K07729.01",
+    "koi_period": 50.563697,
+    "koi_time0bk": 145.8658,
+    "koi_depth": 50.5,
+    "koi_duration": 5.381
+  },
+  {
+    "kepid": 4471747,
+    "kepoi_name": "K01656.01",
+    "koi_period": 51.3901452,
+    "koi_time0bk": 145.3192,
+    "koi_depth": 494,
+    "koi_duration": 5.995
+  },
+  {
+    "kepid": 4277304,
+    "kepoi_name": "K04774.01",
+    "koi_period": 51.567801,
+    "koi_time0bk": 168.873,
+    "koi_depth": 210.1,
+    "koi_duration": 5.514
+  },
+  {
+    "kepid": 9712350,
+    "kepoi_name": "K02613.01",
+    "koi_period": 51.5738653,
+    "koi_time0bk": 158.06744,
+    "koi_depth": 900.7,
+    "koi_duration": 2.784
+  },
+  {
+    "kepid": 3329204,
+    "kepoi_name": "K01095.01",
+    "koi_period": 51.59809554,
+    "koi_time0bk": 203.979914,
+    "koi_depth": 5869.2,
+    "koi_duration": 2.0153
+  },
+  {
+    "kepid": 9727765,
+    "kepoi_name": "K06210.01",
+    "koi_period": 51.85656556,
+    "koi_time0bk": 167.340205,
+    "koi_depth": null,
+    "koi_duration": 2.21
+  },
+  {
+    "kepid": 7906882,
+    "kepoi_name": "K00686.01",
+    "koi_period": 52.513548727,
+    "koi_time0bk": 171.6745959,
+    "koi_depth": 14252.3,
+    "koi_duration": 3.2743
+  },
+  {
+    "kepid": 6346894,
+    "kepoi_name": "K05264.01",
+    "koi_period": 52.69092296,
+    "koi_time0bk": 138.799777,
+    "koi_depth": null,
+    "koi_duration": 2.31
+  },
+  {
+    "kepid": 9932970,
+    "kepoi_name": "K01587.01",
+    "koi_period": 52.971584,
+    "koi_time0bk": 159.06109,
+    "koi_depth": 3882.6,
+    "koi_duration": 3.4632
+  },
+  {
+    "kepid": 6264750,
+    "kepoi_name": "K04715.01",
+    "koi_period": 53.285584,
+    "koi_time0bk": 172.297,
+    "koi_depth": 158.6,
+    "koi_duration": 6.492
+  },
+  {
+    "kepid": 12208631,
+    "kepoi_name": "K02449.01",
+    "koi_period": 53.3580444,
+    "koi_time0bk": 138.38498,
+    "koi_depth": 736.1,
+    "koi_duration": 6.812
+  },
+  {
+    "kepid": 9414417,
+    "kepoi_name": "K00974.01",
+    "koi_period": 53.5057611,
+    "koi_time0bk": 172.98304,
+    "koi_depth": 195.6,
+    "koi_duration": 10.5616
+  },
+  {
+    "kepid": 8009811,
+    "kepoi_name": "K05459.01",
+    "koi_period": 53.554546,
+    "koi_time0bk": 160.3983,
+    "koi_depth": 127.6,
+    "koi_duration": 5.533
+  },
+  {
+    "kepid": 7504328,
+    "kepoi_name": "K00458.01",
+    "koi_period": 53.71798494,
+    "koi_time0bk": 208.08042,
+    "koi_depth": 3153.5,
+    "koi_duration": 4.104
+  },
+  {
+    "kepid": 4587135,
+    "kepoi_name": "K04680.01",
+    "koi_period": 54.0812235,
+    "koi_time0bk": 145.2689,
+    "koi_depth": 411.1,
+    "koi_duration": 6.279
+  },
+  {
+    "kepid": 3545840,
+    "kepoi_name": "K06102.01",
+    "koi_period": 54.2916336,
+    "koi_time0bk": 172.0219,
+    "koi_depth": 97.8,
+    "koi_duration": 3.364
+  },
+  {
+    "kepid": 11336883,
+    "kepoi_name": "K01445.02",
+    "koi_period": 54.325574,
+    "koi_time0bk": 142.236,
+    "koi_depth": 44.2,
+    "koi_duration": 9.86
+  },
+  {
+    "kepid": 10585749,
+    "kepoi_name": "K04563.01",
+    "koi_period": 54.333582,
+    "koi_time0bk": 144.7536,
+    "koi_depth": 152,
+    "koi_duration": 10.545
+  },
+  {
+    "kepid": 10079420,
+    "kepoi_name": "K07607.01",
+    "koi_period": 54.54312996,
+    "koi_time0bk": 169.8591463,
+    "koi_depth": null,
+    "koi_duration": 7.03
+  },
+  {
+    "kepid": 7132462,
+    "kepoi_name": "K05360.01",
+    "koi_period": 54.595746,
+    "koi_time0bk": 156.83764,
+    "koi_depth": 135.8,
+    "koi_duration": 2.21
+  },
+  {
+    "kepid": 9304976,
+    "kepoi_name": "K05654.01",
+    "koi_period": 54.6957124,
+    "koi_time0bk": 155.2574,
+    "koi_depth": 1096,
+    "koi_duration": 6.89
+  },
+  {
+    "kepid": 6507334,
+    "kepoi_name": "K08122.01",
+    "koi_period": 54.753883835,
+    "koi_time0bk": 156.2192927,
+    "koi_depth": 442.3,
+    "koi_duration": 2.0865
+  },
+  {
+    "kepid": 11298442,
+    "kepoi_name": "K05882.01",
+    "koi_period": 55.01469183,
+    "koi_time0bk": 156.7945344,
+    "koi_depth": null,
+    "koi_duration": 2.34
+  },
+  {
+    "kepid": 2310993,
+    "kepoi_name": "K04938.01",
+    "koi_period": 55.180772,
+    "koi_time0bk": 147.7141,
+    "koi_depth": 474.6,
+    "koi_duration": 9.791
+  },
+  {
+    "kepid": 6366559,
+    "kepoi_name": "K05274.01",
+    "koi_period": 55.7583803,
+    "koi_time0bk": 160.0006,
+    "koi_depth": 132.7,
+    "koi_duration": 2.497
+  },
+  {
+    "kepid": 4737848,
+    "kepoi_name": "K05079.01",
+    "koi_period": 56.001782,
+    "koi_time0bk": 144.09684,
+    "koi_depth": 125.2,
+    "koi_duration": 1.706
+  },
+  {
+    "kepid": 4450844,
+    "kepoi_name": "K03168.01",
+    "koi_period": 56.3479517,
+    "koi_time0bk": 163.3795,
+    "koi_depth": 43.6,
+    "koi_duration": 8.789
+  },
+  {
+    "kepid": 10843431,
+    "kepoi_name": "K07378.02",
+    "koi_period": 56.391062,
+    "koi_time0bk": 167.579,
+    "koi_depth": 2042,
+    "koi_duration": 5.7
+  },
+  {
+    "kepid": 8349399,
+    "kepoi_name": "K04763.01",
+    "koi_period": 56.446465,
+    "koi_time0bk": 170.59,
+    "koi_depth": 147.9,
+    "koi_duration": 7.371
+  },
+  {
+    "kepid": 8007174,
+    "kepoi_name": "K05458.01",
+    "koi_period": 56.648588,
+    "koi_time0bk": 168.47002,
+    "koi_depth": 648.9,
+    "koi_duration": 4.534
+  },
+  {
+    "kepid": 7663405,
+    "kepoi_name": "K01519.02",
+    "koi_period": 57.132855,
+    "koi_time0bk": 152.9919,
+    "koi_depth": 414.1,
+    "koi_duration": 4.958
+  },
+  {
+    "kepid": 8129333,
+    "kepoi_name": "K05480.01",
+    "koi_period": 57.140035,
+    "koi_time0bk": 145.8694,
+    "koi_depth": 1567,
+    "koi_duration": 5.684
+  },
+  {
+    "kepid": 12785320,
+    "kepoi_name": "K00298.02",
+    "koi_period": 57.3840375,
+    "koi_time0bk": 170.72723,
+    "koi_depth": 241.7,
+    "koi_duration": 4.336
+  },
+  {
+    "kepid": 11360805,
+    "kepoi_name": "K02422.02",
+    "koi_period": 57.3888262,
+    "koi_time0bk": 141.62516,
+    "koi_depth": 344.4,
+    "koi_duration": 3.543
+  },
+  {
+    "kepid": 10933306,
+    "kepoi_name": "K05842.01",
+    "koi_period": 57.7749373,
+    "koi_time0bk": 154.2915,
+    "koi_depth": 283.6,
+    "koi_duration": 4.731
+  },
+  {
+    "kepid": 11125797,
+    "kepoi_name": "K03371.01",
+    "koi_period": 58.1263775,
+    "koi_time0bk": 163.11687,
+    "koi_depth": 271.5,
+    "koi_duration": 4.018
+  },
+  {
+    "kepid": 8872048,
+    "kepoi_name": "K02323.01",
+    "koi_period": 58.35512552,
+    "koi_time0bk": 179.39795,
+    "koi_depth": null,
+    "koi_duration": 8.45
+  },
+  {
+    "kepid": 7625143,
+    "kepoi_name": "K05407.01",
+    "koi_period": 58.5029431,
+    "koi_time0bk": 185.75495,
+    "koi_depth": 117,
+    "koi_duration": 1.633
+  },
+  {
+    "kepid": 11446961,
+    "kepoi_name": "K05899.01",
+    "koi_period": 58.669218,
+    "koi_time0bk": 168.6211,
+    "koi_depth": 169.4,
+    "koi_duration": 3.712
+  },
+  {
+    "kepid": 10467714,
+    "kepoi_name": "K04480.01",
+    "koi_period": 58.7488629,
+    "koi_time0bk": 172.65025,
+    "koi_depth": 473.6,
+    "koi_duration": 3.191
+  },
+  {
+    "kepid": 5900235,
+    "kepoi_name": "K03426.01",
+    "koi_period": 58.7701045,
+    "koi_time0bk": 174.775,
+    "koi_depth": 224.4,
+    "koi_duration": 6.995
+  },
+  {
+    "kepid": 8494783,
+    "kepoi_name": "K06180.02",
+    "koi_period": 58.92565,
+    "koi_time0bk": 176.6709,
+    "koi_depth": 44.7,
+    "koi_duration": 14.56
+  },
+  {
+    "kepid": 3559860,
+    "kepoi_name": "K03440.02",
+    "koi_period": 58.940569,
+    "koi_time0bk": 159.6218,
+    "koi_depth": 570.3,
+    "koi_duration": 4.769
+  },
+  {
+    "kepid": 3242039,
+    "kepoi_name": "K04969.01",
+    "koi_period": 59.14382117,
+    "koi_time0bk": 180.5653307,
+    "koi_depth": null,
+    "koi_duration": 1.74
+  },
+  {
+    "kepid": 3101178,
+    "kepoi_name": "K04963.01",
+    "koi_period": 59.4037839,
+    "koi_time0bk": 159.80356,
+    "koi_depth": 123.5,
+    "koi_duration": 10.041
+  },
+  {
+    "kepid": 3647097,
+    "kepoi_name": "K05001.01",
+    "koi_period": 59.9655175,
+    "koi_time0bk": 140.9936,
+    "koi_depth": 310.1,
+    "koi_duration": 1.89
+  },
+  {
+    "kepid": 5384713,
+    "kepoi_name": "K03444.02",
+    "koi_period": 60.32668824,
+    "koi_time0bk": 145.057472,
+    "koi_depth": 3146.7,
+    "koi_duration": 1.6864
+  },
+  {
+    "kepid": 2577353,
+    "kepoi_name": "K07635.01",
+    "koi_period": 60.458443,
+    "koi_time0bk": 136.3553,
+    "koi_depth": 175.2,
+    "koi_duration": 8.43
+  },
+  {
+    "kepid": 4844470,
+    "kepoi_name": "K03469.01",
+    "koi_period": 60.532988,
+    "koi_time0bk": 134.57461,
+    "koi_depth": 467.5,
+    "koi_duration": 7.086
+  },
+  {
+    "kepid": 3223433,
+    "kepoi_name": "K04548.01",
+    "koi_period": 61.083322,
+    "koi_time0bk": 132.494,
+    "koi_depth": 227.5,
+    "koi_duration": 10.396
+  },
+  {
+    "kepid": 11456256,
+    "kepoi_name": "K05901.01",
+    "koi_period": 61.611129,
+    "koi_time0bk": 133.8909,
+    "koi_depth": 82.9,
+    "koi_duration": 14.96
+  },
+  {
+    "kepid": 9588822,
+    "kepoi_name": "K04388.02",
+    "koi_period": 61.858947,
+    "koi_time0bk": 191.9736,
+    "koi_depth": 70.8,
+    "koi_duration": 21.32
+  },
+  {
+    "kepid": 3955444,
+    "kepoi_name": "K05027.01",
+    "koi_period": 62.312419,
+    "koi_time0bk": 146.119,
+    "koi_depth": 123,
+    "koi_duration": 5.561
+  },
+  {
+    "kepid": 9664276,
+    "kepoi_name": "K03460.01",
+    "koi_period": 62.596544,
+    "koi_time0bk": 185.9931,
+    "koi_depth": 223.1,
+    "koi_duration": 11.477
+  },
+  {
+    "kepid": 12254688,
+    "kepoi_name": "K02384.01",
+    "koi_period": 62.6825769,
+    "koi_time0bk": 182.22959,
+    "koi_depth": 398.9,
+    "koi_duration": 2.327
+  },
+  {
+    "kepid": 9111849,
+    "kepoi_name": "K02042.01",
+    "koi_period": 63.0732241,
+    "koi_time0bk": 191.2532,
+    "koi_depth": 671.3,
+    "koi_duration": 5.397
+  },
+  {
+    "kepid": 6691169,
+    "kepoi_name": "K04890.01",
+    "koi_period": 63.095068,
+    "koi_time0bk": 158.1168,
+    "koi_depth": 496.8,
+    "koi_duration": 9.485
+  },
+  {
+    "kepid": 5342061,
+    "kepoi_name": "K02666.01",
+    "koi_period": 64.034363,
+    "koi_time0bk": 159.0432,
+    "koi_depth": 758.8,
+    "koi_duration": 9.174
+  },
+  {
+    "kepid": 7199060,
+    "kepoi_name": "K04152.01",
+    "koi_period": 64.1862264,
+    "koi_time0bk": 191.65639,
+    "koi_depth": 507.3,
+    "koi_duration": 8.485
+  },
+  {
+    "kepid": 9085039,
+    "kepoi_name": "K07129.01",
+    "koi_period": 64.1983721,
+    "koi_time0bk": 147.98378,
+    "koi_depth": 248.2,
+    "koi_duration": 0.934
+  },
+  {
+    "kepid": 4141593,
+    "kepoi_name": "K07685.01",
+    "koi_period": 64.740274,
+    "koi_time0bk": 149.9922,
+    "koi_depth": 113.1,
+    "koi_duration": 15.082
+  },
+  {
+    "kepid": 7033233,
+    "kepoi_name": "K02339.02",
+    "koi_period": 65.18703725,
+    "koi_time0bk": 177.6208875,
+    "koi_depth": null,
+    "koi_duration": 5.44
+  },
+  {
+    "kepid": 9881660,
+    "kepoi_name": "K05727.01",
+    "koi_period": 65.3558881,
+    "koi_time0bk": 154.47727,
+    "koi_depth": 1158,
+    "koi_duration": 2.165
+  },
+  {
+    "kepid": 8364232,
+    "kepoi_name": "K07882.01",
+    "koi_period": 65.415183,
+    "koi_time0bk": 140.2325,
+    "koi_depth": 417.1,
+    "koi_duration": 4.224
+  },
+  {
+    "kepid": 11922778,
+    "kepoi_name": "K03408.01",
+    "koi_period": 65.427645,
+    "koi_time0bk": 176.2733,
+    "koi_depth": 319,
+    "koi_duration": 9.404
+  },
+  {
+    "kepid": 3646449,
+    "kepoi_name": "K04999.01",
+    "koi_period": 65.752109,
+    "koi_time0bk": 183.3112,
+    "koi_depth": 382.5,
+    "koi_duration": 6.854
+  },
+  {
+    "kepid": 7834712,
+    "kepoi_name": "K07850.01",
+    "koi_period": 66.119119,
+    "koi_time0bk": 145.2356,
+    "koi_depth": 862,
+    "koi_duration": 3.086
+  },
+  {
+    "kepid": 9413156,
+    "kepoi_name": "K04700.02",
+    "koi_period": 66.47762,
+    "koi_time0bk": 184.2673,
+    "koi_depth": 553.5,
+    "koi_duration": 4.487
+  },
+  {
+    "kepid": 10794974,
+    "kepoi_name": "K04235.01",
+    "koi_period": 66.6434565,
+    "koi_time0bk": 170.08058,
+    "koi_depth": 277.3,
+    "koi_duration": 2.385
+  },
+  {
+    "kepid": 9159288,
+    "kepoi_name": "K08280.01",
+    "koi_period": 66.67305,
+    "koi_time0bk": 161.59,
+    "koi_depth": 472.1,
+    "koi_duration": 6.381
+  },
+  {
+    "kepid": 11446424,
+    "kepoi_name": "K08223.01",
+    "koi_period": 66.716453,
+    "koi_time0bk": 150.0569,
+    "koi_depth": 626,
+    "koi_duration": 3.855
+  },
+  {
+    "kepid": 9605514,
+    "kepoi_name": "K00945.03",
+    "koi_period": 66.789347,
+    "koi_time0bk": 184.4713,
+    "koi_depth": 358.5,
+    "koi_duration": 4.08
+  },
+  {
+    "kepid": 10403228,
+    "kepoi_name": "K08007.01",
+    "koi_period": 67.176626864,
+    "koi_time0bk": 144.1192641,
+    "koi_depth": 1689.9,
+    "koi_duration": 3.1147
+  },
+  {
+    "kepid": 8444868,
+    "kepoi_name": "K07593.01",
+    "koi_period": 67.412998,
+    "koi_time0bk": 196.1263,
+    "koi_depth": 126.1,
+    "koi_duration": 9.1
+  },
+  {
+    "kepid": 9020114,
+    "kepoi_name": "K03088.02",
+    "koi_period": 67.8766605,
+    "koi_time0bk": 187.3703,
+    "koi_depth": 389.2,
+    "koi_duration": 2.598
+  },
+  {
+    "kepid": 1865864,
+    "kepoi_name": "K04926.01",
+    "koi_period": 69.089357,
+    "koi_time0bk": 135.4461,
+    "koi_depth": 475.1,
+    "koi_duration": 6.207
+  },
+  {
+    "kepid": 6116172,
+    "kepoi_name": "K06142.01",
+    "koi_period": 69.64679311,
+    "koi_time0bk": 138.283056,
+    "koi_depth": null,
+    "koi_duration": 3.71
+  },
+  {
+    "kepid": 10339000,
+    "kepoi_name": "K05787.01",
+    "koi_period": 69.775633,
+    "koi_time0bk": 147.9367,
+    "koi_depth": 140.9,
+    "koi_duration": 9.205
+  },
+  {
+    "kepid": 7287683,
+    "kepoi_name": "K01622.01",
+    "koi_period": 69.8347983,
+    "koi_time0bk": 168.78436,
+    "koi_depth": 266.6,
+    "koi_duration": 8.262
+  },
+  {
+    "kepid": 4750962,
+    "kepoi_name": "K05083.01",
+    "koi_period": 69.932459,
+    "koi_time0bk": 145.91179,
+    "koi_depth": 264.4,
+    "koi_duration": 2.03
+  },
+  {
+    "kepid": 10272442,
+    "kepoi_name": "K00734.02",
+    "koi_period": 70.2780911,
+    "koi_time0bk": 151.32941,
+    "koi_depth": 781.6,
+    "koi_duration": 2.466
+  },
+  {
+    "kepid": 10319834,
+    "kepoi_name": "K05785.01",
+    "koi_period": 70.31252504,
+    "koi_time0bk": 178.7486804,
+    "koi_depth": null,
+    "koi_duration": 13.66
+  },
+  {
+    "kepid": 3936061,
+    "kepoi_name": "K06372.01",
+    "koi_period": 71.008017,
+    "koi_time0bk": 140.865,
+    "koi_depth": 170.2,
+    "koi_duration": 5.395
+  },
+  {
+    "kepid": 5563300,
+    "kepoi_name": "K03309.01",
+    "koi_period": 71.05457555,
+    "koi_time0bk": 134.734589,
+    "koi_depth": 4853.2,
+    "koi_duration": 1.9162
+  },
+  {
+    "kepid": 12156930,
+    "kepoi_name": "K08076.01",
+    "koi_period": 71.10684,
+    "koi_time0bk": 176.7154,
+    "koi_depth": 128.4,
+    "koi_duration": 6.933
+  },
+  {
+    "kepid": 6670742,
+    "kepoi_name": "K06753.01",
+    "koi_period": 72.28198,
+    "koi_time0bk": 156.753,
+    "koi_depth": 1265,
+    "koi_duration": 2.478
+  },
+  {
+    "kepid": 10809888,
+    "kepoi_name": "K05830.01",
+    "koi_period": 72.782432,
+    "koi_time0bk": 188.2117,
+    "koi_depth": 245.8,
+    "koi_duration": 3.726
+  },
+  {
+    "kepid": 2853029,
+    "kepoi_name": "K03259.01",
+    "koi_period": 72.9332762,
+    "koi_time0bk": 198.11468,
+    "koi_depth": 770.4,
+    "koi_duration": 3.829
+  },
+  {
+    "kepid": 8223568,
+    "kepoi_name": "K06176.02",
+    "koi_period": 73.4567573,
+    "koi_time0bk": 172.3647107,
+    "koi_depth": null,
+    "koi_duration": 2.74
+  },
+  {
+    "kepid": 2443393,
+    "kepoi_name": "K02603.01",
+    "koi_period": 73.711039,
+    "koi_time0bk": 202.7848,
+    "koi_depth": 136.7,
+    "koi_duration": 10.062
+  },
+  {
+    "kepid": 12105086,
+    "kepoi_name": "K05954.01",
+    "koi_period": 73.908995,
+    "koi_time0bk": 159.8067,
+    "koi_depth": 100.5,
+    "koi_duration": 3.916
+  },
+  {
+    "kepid": 5617510,
+    "kepoi_name": "K06605.01",
+    "koi_period": 74.371666,
+    "koi_time0bk": 187.379,
+    "koi_depth": 102.8,
+    "koi_duration": 12.59
+  },
+  {
+    "kepid": 7888863,
+    "kepoi_name": "K05440.01",
+    "koi_period": 74.624063,
+    "koi_time0bk": 194.3704,
+    "koi_depth": 346.9,
+    "koi_duration": 8.881
+  },
+  {
+    "kepid": 8395870,
+    "kepoi_name": "K05511.01",
+    "koi_period": 74.833577,
+    "koi_time0bk": 196.5293,
+    "koi_depth": 86.4,
+    "koi_duration": 3.247
+  },
+  {
+    "kepid": 7974634,
+    "kepoi_name": "K06168.02",
+    "koi_period": 75.072964,
+    "koi_time0bk": 147.1591,
+    "koi_depth": 74.3,
+    "koi_duration": 9.21
+  },
+  {
+    "kepid": 3545478,
+    "kepoi_name": "K00366.01",
+    "koi_period": 75.1122132,
+    "koi_time0bk": 207.713987,
+    "koi_depth": 3751.5,
+    "koi_duration": 4.9458
+  },
+  {
+    "kepid": 11506654,
+    "kepoi_name": "K04586.01",
+    "koi_period": 75.2116373,
+    "koi_time0bk": 202.30222,
+    "koi_depth": 362.6,
+    "koi_duration": 3.203
+  },
+  {
+    "kepid": 10186761,
+    "kepoi_name": "K05772.01",
+    "koi_period": 75.636309,
+    "koi_time0bk": 131.9468,
+    "koi_depth": 174.6,
+    "koi_duration": 2.588
+  },
+  {
+    "kepid": 10122538,
+    "kepoi_name": "K02926.05",
+    "koi_period": 75.731195,
+    "koi_time0bk": 201.9685,
+    "koi_depth": 2496,
+    "koi_duration": 4.859
+  },
+  {
+    "kepid": 5642620,
+    "kepoi_name": "K02882.01",
+    "koi_period": 75.8580035,
+    "koi_time0bk": 165.5543,
+    "koi_depth": 1148.4,
+    "koi_duration": 5.382
+  },
+  {
+    "kepid": 7801070,
+    "kepoi_name": "K04361.01",
+    "koi_period": 75.8781344,
+    "koi_time0bk": 194.67762,
+    "koi_depth": 1054,
+    "koi_duration": 1.383
+  },
+  {
+    "kepid": 7592529,
+    "kepoi_name": "K06889.01",
+    "koi_period": 75.906736,
+    "koi_time0bk": 185.6963,
+    "koi_depth": 26.9,
+    "koi_duration": 11.64
+  },
+  {
+    "kepid": 11444974,
+    "kepoi_name": "K05898.01",
+    "koi_period": 76.37924,
+    "koi_time0bk": 205.0612,
+    "koi_depth": 276.3,
+    "koi_duration": 0.645
+  },
+  {
+    "kepid": 11656928,
+    "kepoi_name": "K06242.02",
+    "koi_period": 76.83994597,
+    "koi_time0bk": 171.7707187,
+    "koi_depth": null,
+    "koi_duration": 3.11
+  },
+  {
+    "kepid": 11853130,
+    "kepoi_name": "K03263.01",
+    "koi_period": 76.87935893,
+    "koi_time0bk": 146.882451,
+    "koi_depth": 21272,
+    "koi_duration": 2.3819
+  },
+  {
+    "kepid": 12266099,
+    "kepoi_name": "K08077.01",
+    "koi_period": 77.177672,
+    "koi_time0bk": 146.9243,
+    "koi_depth": 318.6,
+    "koi_duration": 2.312
+  },
+  {
+    "kepid": 9955262,
+    "kepoi_name": "K00076.01",
+    "koi_period": 77.4794704,
+    "koi_time0bk": 154.70734,
+    "koi_depth": 1237,
+    "koi_duration": 10.1151
+  },
+  {
+    "kepid": 9472328,
+    "kepoi_name": "K05681.01",
+    "koi_period": 77.51257,
+    "koi_time0bk": 199.556,
+    "koi_depth": 1510,
+    "koi_duration": 3.15
+  },
+  {
+    "kepid": 7984047,
+    "kepoi_name": "K01552.01",
+    "koi_period": 77.63424586,
+    "koi_time0bk": 417.153212,
+    "koi_depth": 16612,
+    "koi_duration": 4.1002
+  },
+  {
+    "kepid": 8934103,
+    "kepoi_name": "K04009.02",
+    "koi_period": 77.792718,
+    "koi_time0bk": 190.1476,
+    "koi_depth": 287.9,
+    "koi_duration": 6.08
+  },
+  {
+    "kepid": 4857058,
+    "kepoi_name": "K03061.02",
+    "koi_period": 77.915425,
+    "koi_time0bk": 160.9193,
+    "koi_depth": 178.8,
+    "koi_duration": 8.274
+  },
+  {
+    "kepid": 5385304,
+    "kepoi_name": "K02370.01",
+    "koi_period": 78.7327023,
+    "koi_time0bk": 168.72926,
+    "koi_depth": 495.8,
+    "koi_duration": 5.041
+  },
+  {
+    "kepid": 11656928,
+    "kepoi_name": "K06242.03",
+    "koi_period": 78.86684,
+    "koi_time0bk": 143.7314,
+    "koi_depth": 86.1,
+    "koi_duration": 4.5
+  },
+  {
+    "kepid": 6045404,
+    "kepoi_name": "K05231.01",
+    "koi_period": 78.876125,
+    "koi_time0bk": 205.1282,
+    "koi_depth": 472.3,
+    "koi_duration": 4.912
+  },
+  {
+    "kepid": 8494263,
+    "kepoi_name": "K01255.01",
+    "koi_period": 78.9257421,
+    "koi_time0bk": 429.37454,
+    "koi_depth": 17972,
+    "koi_duration": 7.5193
+  },
+  {
+    "kepid": 4249611,
+    "kepoi_name": "K02821.01",
+    "koi_period": 79.2450351,
+    "koi_time0bk": 161.5717,
+    "koi_depth": 1347.3,
+    "koi_duration": 5.382
+  },
+  {
+    "kepid": 12109267,
+    "kepoi_name": "K04457.01",
+    "koi_period": 79.334347,
+    "koi_time0bk": 144.0233,
+    "koi_depth": 164.9,
+    "koi_duration": 10.886
+  },
+  {
+    "kepid": 5856571,
+    "kepoi_name": "K01839.02",
+    "koi_period": 80.4103783,
+    "koi_time0bk": 171.29626,
+    "koi_depth": 591.4,
+    "koi_duration": 3.487
+  },
+  {
+    "kepid": 3852872,
+    "kepoi_name": "K07673.01",
+    "koi_period": 80.769893,
+    "koi_time0bk": 188.5556,
+    "koi_depth": 128.5,
+    "koi_duration": 4.2
+  },
+  {
+    "kepid": 2569995,
+    "kepoi_name": "K07634.01",
+    "koi_period": 80.84069,
+    "koi_time0bk": 177.3473,
+    "koi_depth": 9326,
+    "koi_duration": 8.567
+  },
+  {
+    "kepid": 3758499,
+    "kepoi_name": "K05007.02",
+    "koi_period": 80.881757,
+    "koi_time0bk": 136.6708,
+    "koi_depth": 142.7,
+    "koi_duration": 12.568
+  },
+  {
+    "kepid": 4074736,
+    "kepoi_name": "K01328.01",
+    "koi_period": 80.9669561,
+    "koi_time0bk": 160.97672,
+    "koi_depth": 4733,
+    "koi_duration": 2.5276
+  },
+  {
+    "kepid": 8040457,
+    "kepoi_name": "K05468.01",
+    "koi_period": 81.704814,
+    "koi_time0bk": 151.4216,
+    "koi_depth": 297,
+    "koi_duration": 1.468
+  },
+  {
+    "kepid": 3101923,
+    "kepoi_name": "K03483.01",
+    "koi_period": 82.331756,
+    "koi_time0bk": 133.0814,
+    "koi_depth": 283.2,
+    "koi_duration": 8.664
+  },
+  {
+    "kepid": 10810859,
+    "kepoi_name": "K04801.01",
+    "koi_period": 82.401274,
+    "koi_time0bk": 140.6557,
+    "koi_depth": 430.7,
+    "koi_duration": 6.48
+  },
+  {
+    "kepid": 10656842,
+    "kepoi_name": "K05816.01",
+    "koi_period": 82.508054,
+    "koi_time0bk": 162.3992,
+    "koi_depth": 351.9,
+    "koi_duration": 3.806
+  },
+  {
+    "kepid": 8509442,
+    "kepoi_name": "K02992.01",
+    "koi_period": 82.6595174,
+    "koi_time0bk": 152.6726,
+    "koi_depth": 1270.7,
+    "koi_duration": 3.48
+  },
+  {
+    "kepid": 9099773,
+    "kepoi_name": "K07133.01",
+    "koi_period": 82.78482,
+    "koi_time0bk": 141.3871,
+    "koi_depth": 190.4,
+    "koi_duration": 7.52
+  },
+  {
+    "kepid": 6368222,
+    "kepoi_name": "K06697.01",
+    "koi_period": 82.97062172,
+    "koi_time0bk": 171.428214,
+    "koi_depth": null,
+    "koi_duration": 8.22
+  },
+  {
+    "kepid": 10153011,
+    "kepoi_name": "K01773.01",
+    "koi_period": 83.09708021,
+    "koi_time0bk": 162.935743,
+    "koi_depth": 15860.2,
+    "koi_duration": 9.2639
+  },
+  {
+    "kepid": 3236705,
+    "kepoi_name": "K03343.01",
+    "koi_period": 83.2664103,
+    "koi_time0bk": 194.23925,
+    "koi_depth": 620,
+    "koi_duration": 2.813
+  },
+  {
+    "kepid": 9282853,
+    "kepoi_name": "K05651.01",
+    "koi_period": 83.499618,
+    "koi_time0bk": 163.5093,
+    "koi_depth": 501,
+    "koi_duration": 16.03
+  },
+  {
+    "kepid": 8018547,
+    "kepoi_name": "K00902.01",
+    "koi_period": 83.92494032,
+    "koi_time0bk": 236.76334,
+    "koi_depth": 7958.7,
+    "koi_duration": 6.7904
+  },
+  {
+    "kepid": 2437653,
+    "kepoi_name": "K04940.01",
+    "koi_period": 84.6405853,
+    "koi_time0bk": 183.17243,
+    "koi_depth": 784,
+    "koi_duration": 2.657
+  },
+  {
+    "kepid": 7429287,
+    "kepoi_name": "K04260.04",
+    "koi_period": 84.799829,
+    "koi_time0bk": 180.4426,
+    "koi_depth": 56.1,
+    "koi_duration": 15.21
+  },
+  {
+    "kepid": 8295087,
+    "kepoi_name": "K05500.01",
+    "koi_period": 84.934357,
+    "koi_time0bk": 157.8966,
+    "koi_depth": 129.7,
+    "koi_duration": 3.169
+  },
+  {
+    "kepid": 6690171,
+    "kepoi_name": "K03320.01",
+    "koi_period": 85.0624157,
+    "koi_time0bk": 149.220739,
+    "koi_depth": 41901,
+    "koi_duration": 4.6964
+  },
+  {
+    "kepid": 8160953,
+    "kepoi_name": "K01858.02",
+    "koi_period": 86.049055,
+    "koi_time0bk": 201.0385,
+    "koi_depth": 429.9,
+    "koi_duration": 29.28
+  },
+  {
+    "kepid": 8892157,
+    "kepoi_name": "K02224.02",
+    "koi_period": 86.130534,
+    "koi_time0bk": 200.9117,
+    "koi_depth": 285.2,
+    "koi_duration": 3.321
+  },
+  {
+    "kepid": 6116172,
+    "kepoi_name": "K06142.03",
+    "koi_period": 86.13201864,
+    "koi_time0bk": 164.2236993,
+    "koi_depth": null,
+    "koi_duration": 3.11
+  },
+  {
+    "kepid": 11968463,
+    "kepoi_name": "K02433.07",
+    "koi_period": 86.431871,
+    "koi_time0bk": 423.0356,
+    "koi_depth": 415.1,
+    "koi_duration": 7.374
+  },
+  {
+    "kepid": 1718189,
+    "kepoi_name": "K00993.03",
+    "koi_period": 86.723653,
+    "koi_time0bk": 195.3511,
+    "koi_depth": 241,
+    "koi_duration": 4.852
+  },
+  {
+    "kepid": 2449431,
+    "kepoi_name": "K02009.01",
+    "koi_period": 86.7490807,
+    "koi_time0bk": 170.29281,
+    "koi_depth": 547.1,
+    "koi_duration": 9.179
+  },
+  {
+    "kepid": 9932197,
+    "kepoi_name": "K07255.01",
+    "koi_period": 86.95432088,
+    "koi_time0bk": 187.7282221,
+    "koi_depth": null,
+    "koi_duration": 12.11
+  },
+  {
+    "kepid": 10160922,
+    "kepoi_name": "K07990.01",
+    "koi_period": 87.487573,
+    "koi_time0bk": 154.5163,
+    "koi_depth": 528.7,
+    "koi_duration": 5.881
+  },
+  {
+    "kepid": 9073549,
+    "kepoi_name": "K05608.01",
+    "koi_period": 87.565484,
+    "koi_time0bk": 134.2932,
+    "koi_depth": 396,
+    "koi_duration": 2.527
+  },
+  {
+    "kepid": 9008103,
+    "kepoi_name": "K03283.03",
+    "koi_period": 87.707513,
+    "koi_time0bk": 205.7369,
+    "koi_depth": 578,
+    "koi_duration": 2.184
+  },
+  {
+    "kepid": 2852810,
+    "kepoi_name": "K06097.02",
+    "koi_period": 88.433122,
+    "koi_time0bk": 212.6803,
+    "koi_depth": 120.4,
+    "koi_duration": 2.392
+  },
+  {
+    "kepid": 11198419,
+    "kepoi_name": "K05879.01",
+    "koi_period": 88.523517,
+    "koi_time0bk": 189.2756,
+    "koi_depth": 828,
+    "koi_duration": 7.22
+  },
+  {
+    "kepid": 11598894,
+    "kepoi_name": "K05913.01",
+    "koi_period": 89.366114,
+    "koi_time0bk": 208.893,
+    "koi_depth": 494,
+    "koi_duration": 3.945
+  },
+  {
+    "kepid": 6278670,
+    "kepoi_name": "K07775.01",
+    "koi_period": 89.945828,
+    "koi_time0bk": 133.5634,
+    "koi_depth": 335.6,
+    "koi_duration": 2.286
+  },
+  {
+    "kepid": 4742420,
+    "kepoi_name": "K06120.01",
+    "koi_period": 90.097375,
+    "koi_time0bk": 143.8471,
+    "koi_depth": 282.6,
+    "koi_duration": 12.697
+  },
+  {
+    "kepid": 2860866,
+    "kepoi_name": "K01103.01",
+    "koi_period": 90.1240507,
+    "koi_time0bk": 356.23415,
+    "koi_depth": 3020.3,
+    "koi_duration": 11.649
+  },
+  {
+    "kepid": 6876575,
+    "kepoi_name": "K07572.01",
+    "koi_period": 91.069934,
+    "koi_time0bk": 196.391,
+    "koi_depth": 12.7,
+    "koi_duration": 17.33
+  },
+  {
+    "kepid": 10414727,
+    "kepoi_name": "K06224.01",
+    "koi_period": 91.20573037,
+    "koi_time0bk": 210.1533987,
+    "koi_depth": null,
+    "koi_duration": 4.17
+  },
+  {
+    "kepid": 11520465,
+    "kepoi_name": "K05910.01",
+    "koi_period": 91.240335,
+    "koi_time0bk": 155.7237,
+    "koi_depth": 206.1,
+    "koi_duration": 2.314
+  },
+  {
+    "kepid": 9292100,
+    "kepoi_name": "K05652.01",
+    "koi_period": 91.507044,
+    "koi_time0bk": 184.2723,
+    "koi_depth": 539,
+    "koi_duration": 5.019
+  },
+  {
+    "kepid": 4758350,
+    "kepoi_name": "K06447.02",
+    "koi_period": 91.649983,
+    "koi_time0bk": 175.7156,
+    "koi_depth": 193.6,
+    "koi_duration": 10.294
+  },
+  {
+    "kepid": 3539231,
+    "kepoi_name": "K04626.01",
+    "koi_period": 91.95723,
+    "koi_time0bk": 183.0248,
+    "koi_depth": 308.4,
+    "koi_duration": 10.471
+  },
+  {
+    "kepid": 4262040,
+    "kepoi_name": "K03202.01",
+    "koi_period": 92.461135,
+    "koi_time0bk": 211.1951,
+    "koi_depth": 122.4,
+    "koi_duration": 14.344
+  },
+  {
+    "kepid": 8182107,
+    "kepoi_name": "K07870.01",
+    "koi_period": 92.552007,
+    "koi_time0bk": 221.5872,
+    "koi_depth": 282.6,
+    "koi_duration": 2.135
+  },
+  {
+    "kepid": 8240904,
+    "kepoi_name": "K01070.03",
+    "koi_period": 92.77779,
+    "koi_time0bk": 367.6112,
+    "koi_depth": 359,
+    "koi_duration": 6.64
+  },
+  {
+    "kepid": 11651240,
+    "kepoi_name": "K05925.01",
+    "koi_period": 93.006,
+    "koi_time0bk": 144.36,
+    "koi_depth": 125.4,
+    "koi_duration": 2.461
+  },
+  {
+    "kepid": 2852810,
+    "kepoi_name": "K06097.01",
+    "koi_period": 93.05654364,
+    "koi_time0bk": 174.8833198,
+    "koi_depth": null,
+    "koi_duration": 2.34
+  },
+  {
+    "kepid": 8279146,
+    "kepoi_name": "K05497.01",
+    "koi_period": 93.359737,
+    "koi_time0bk": 155.8348,
+    "koi_depth": 38.3,
+    "koi_duration": 5.397
+  },
+  {
+    "kepid": 6268648,
+    "kepoi_name": "K01613.02",
+    "koi_period": 94.094392,
+    "koi_time0bk": 196.7503,
+    "koi_depth": 46.6,
+    "koi_duration": 10.833
+  },
+  {
+    "kepid": 11601633,
+    "kepoi_name": "K05918.01",
+    "koi_period": 94.67782,
+    "koi_time0bk": 187.4731,
+    "koi_depth": 287,
+    "koi_duration": 2.215
+  },
+  {
+    "kepid": 1164301,
+    "kepoi_name": "K04921.01",
+    "koi_period": 95.688682,
+    "koi_time0bk": 224.2893,
+    "koi_depth": 453.8,
+    "koi_duration": 6.465
+  },
+  {
+    "kepid": 12885212,
+    "kepoi_name": "K02184.02",
+    "koi_period": 95.906433,
+    "koi_time0bk": 226.921,
+    "koi_depth": 836.2,
+    "koi_duration": 4.08
+  },
+  {
+    "kepid": 9674789,
+    "kepoi_name": "K05704.01",
+    "koi_period": 96.16705,
+    "koi_time0bk": 134.6749,
+    "koi_depth": 270.7,
+    "koi_duration": 2.775
+  },
+  {
+    "kepid": 12110901,
+    "kepoi_name": "K05955.01",
+    "koi_period": 96.32561456,
+    "koi_time0bk": 153.0316267,
+    "koi_depth": null,
+    "koi_duration": 2.28
+  },
+  {
+    "kepid": 6186182,
+    "kepoi_name": "K04496.01",
+    "koi_period": 96.384483,
+    "koi_time0bk": 144.86825,
+    "koi_depth": 591,
+    "koi_duration": 5.253
+  },
+  {
+    "kepid": 11071200,
+    "kepoi_name": "K02696.01",
+    "koi_period": 96.4562198,
+    "koi_time0bk": 214.74931,
+    "koi_depth": 950.5,
+    "koi_duration": 11.195
+  },
+  {
+    "kepid": 6032730,
+    "kepoi_name": "K06141.01",
+    "koi_period": 96.509214,
+    "koi_time0bk": 223.808,
+    "koi_depth": 1528,
+    "koi_duration": 0.589
+  },
+  {
+    "kepid": 3122872,
+    "kepoi_name": "K03203.01",
+    "koi_period": 96.81647,
+    "koi_time0bk": 136.55813,
+    "koi_depth": 164.7,
+    "koi_duration": 10.227
+  },
+  {
+    "kepid": 4552729,
+    "kepoi_name": "K02691.01",
+    "koi_period": 97.4463194,
+    "koi_time0bk": 204.83009,
+    "koi_depth": 2141.1,
+    "koi_duration": 6.765
+  },
+  {
+    "kepid": 8076215,
+    "kepoi_name": "K05472.01",
+    "koi_period": 97.5137491,
+    "koi_time0bk": 156.92462,
+    "koi_depth": 279.8,
+    "koi_duration": 2.655
+  },
+  {
+    "kepid": 12402588,
+    "kepoi_name": "K05968.01",
+    "koi_period": 97.942437,
+    "koi_time0bk": 157.97325,
+    "koi_depth": 100.2,
+    "koi_duration": 2.575
+  },
+  {
+    "kepid": 8807057,
+    "kepoi_name": "K07093.01",
+    "koi_period": 97.991569,
+    "koi_time0bk": 134.675,
+    "koi_depth": 126.8,
+    "koi_duration": 4.665
+  },
+  {
+    "kepid": 6607447,
+    "kepoi_name": "K01242.01",
+    "koi_period": 99.6442783,
+    "koi_time0bk": 283.236289,
+    "koi_depth": 3215.6,
+    "koi_duration": 5.1772
+  },
+  {
+    "kepid": 4912650,
+    "kepoi_name": "K05098.01",
+    "koi_period": 100.345648,
+    "koi_time0bk": 152.8425,
+    "koi_depth": 372.3,
+    "koi_duration": 7.939
+  },
+  {
+    "kepid": 11600299,
+    "kepoi_name": "K05916.01",
+    "koi_period": 100.41475198,
+    "koi_time0bk": 134.1167095,
+    "koi_depth": null,
+    "koi_duration": 1.72
+  },
+  {
+    "kepid": 9394953,
+    "kepoi_name": "K05665.01",
+    "koi_period": 100.494129,
+    "koi_time0bk": 153.8021,
+    "koi_depth": 57.6,
+    "koi_duration": 2.679
+  },
+  {
+    "kepid": 8415353,
+    "kepoi_name": "K05514.01",
+    "koi_period": 102.100752,
+    "koi_time0bk": 148.9663,
+    "koi_depth": 194.2,
+    "koi_duration": 2.009
+  },
+  {
+    "kepid": 11090926,
+    "kepoi_name": "K05866.01",
+    "koi_period": 102.300622,
+    "koi_time0bk": 208.6092,
+    "koi_depth": 781.2,
+    "koi_duration": 4.473
+  },
+  {
+    "kepid": 10027861,
+    "kepoi_name": "K05758.01",
+    "koi_period": 102.493119,
+    "koi_time0bk": 166.0094,
+    "koi_depth": 636.1,
+    "koi_duration": 2.814
+  },
+  {
+    "kepid": 3751118,
+    "kepoi_name": "K05004.01",
+    "koi_period": 103.363691,
+    "koi_time0bk": 194.152,
+    "koi_depth": 359.1,
+    "koi_duration": 6.012
+  },
+  {
+    "kepid": 6387557,
+    "kepoi_name": "K05279.01",
+    "koi_period": 103.722152,
+    "koi_time0bk": 176.0727,
+    "koi_depth": 296.9,
+    "koi_duration": 6.061
+  },
+  {
+    "kepid": 7440715,
+    "kepoi_name": "K05390.01",
+    "koi_period": 104.198102,
+    "koi_time0bk": 161.4469,
+    "koi_depth": 652.2,
+    "koi_duration": 3.2
+  },
+  {
+    "kepid": 6946199,
+    "kepoi_name": "K01359.02",
+    "koi_period": 104.8205868,
+    "koi_time0bk": 374.83154,
+    "koi_depth": 3920.1,
+    "koi_duration": 4.4794
+  },
+  {
+    "kepid": 11868941,
+    "kepoi_name": "K05939.01",
+    "koi_period": 105.053389,
+    "koi_time0bk": 208.7282,
+    "koi_depth": 176.7,
+    "koi_duration": 1.988
+  },
+  {
+    "kepid": 4953262,
+    "kepoi_name": "K05110.01",
+    "koi_period": 105.5904748,
+    "koi_time0bk": 192.30383,
+    "koi_depth": 292.4,
+    "koi_duration": 2.188
+  },
+  {
+    "kepid": 7199397,
+    "kepoi_name": "K00075.01",
+    "koi_period": 105.8817667,
+    "koi_time0bk": 156.97935,
+    "koi_depth": 1556.3,
+    "koi_duration": 18.044
+  },
+  {
+    "kepid": 10610039,
+    "kepoi_name": "K04577.01",
+    "koi_period": 105.997107,
+    "koi_time0bk": 144.41965,
+    "koi_depth": 430.8,
+    "koi_duration": 3.751
+  },
+  {
+    "kepid": 6790592,
+    "kepoi_name": "K07791.01",
+    "koi_period": 106.18732,
+    "koi_time0bk": 180.796,
+    "koi_depth": 266.1,
+    "koi_duration": 10.29
+  },
+  {
+    "kepid": 5184911,
+    "kepoi_name": "K02719.02",
+    "koi_period": 106.25976,
+    "koi_time0bk": 132.2417,
+    "koi_depth": 354,
+    "koi_duration": 6.101
+  },
+  {
+    "kepid": 7191646,
+    "kepoi_name": "K04358.01",
+    "koi_period": 106.957467,
+    "koi_time0bk": 224.9874,
+    "koi_depth": 539.6,
+    "koi_duration": 7.006
+  },
+  {
+    "kepid": 9579606,
+    "kepoi_name": "K05694.01",
+    "koi_period": 107.904526,
+    "koi_time0bk": 159.9493,
+    "koi_depth": 249.4,
+    "koi_duration": 2.053
+  },
+  {
+    "kepid": 12020376,
+    "kepoi_name": "K05950.01",
+    "koi_period": 109.43946,
+    "koi_time0bk": 223.4128,
+    "koi_depth": 187.1,
+    "koi_duration": 3.801
+  },
+  {
+    "kepid": 4471313,
+    "kepoi_name": "K05066.01",
+    "koi_period": 110.089267,
+    "koi_time0bk": 174.2529,
+    "koi_depth": 1018,
+    "koi_duration": 1.575
+  },
+  {
+    "kepid": 3425851,
+    "kepoi_name": "K00268.01",
+    "koi_period": 110.3783828,
+    "koi_time0bk": 175.9317,
+    "koi_depth": 489.8,
+    "koi_duration": 12.211
+  },
+  {
+    "kepid": 9700449,
+    "kepoi_name": "K04120.01",
+    "koi_period": 110.461746,
+    "koi_time0bk": 147.5465,
+    "koi_depth": 331.2,
+    "koi_duration": 12.46
+  },
+  {
+    "kepid": 6716021,
+    "kepoi_name": "K02679.01",
+    "koi_period": 110.7556272,
+    "koi_time0bk": 144.80528,
+    "koi_depth": 8067,
+    "koi_duration": 6.819
+  },
+  {
+    "kepid": 11340218,
+    "kepoi_name": "K05885.01",
+    "koi_period": 111.149082,
+    "koi_time0bk": 193.6316,
+    "koi_depth": 394.2,
+    "koi_duration": 2.911
+  },
+  {
+    "kepid": 4914221,
+    "kepoi_name": "K05099.01",
+    "koi_period": 111.187116,
+    "koi_time0bk": 195.2257,
+    "koi_depth": 110.8,
+    "koi_duration": 3.569
+  },
+  {
+    "kepid": 6116172,
+    "kepoi_name": "K06142.02",
+    "koi_period": 111.65546,
+    "koi_time0bk": 148.8939,
+    "koi_depth": 2887,
+    "koi_duration": 1.051
+  },
+  {
+    "kepid": 11775507,
+    "kepoi_name": "K06245.02",
+    "koi_period": 112.317402,
+    "koi_time0bk": 241.6462,
+    "koi_depth": 182.4,
+    "koi_duration": 3.471
+  },
+  {
+    "kepid": 3748239,
+    "kepoi_name": "K05003.01",
+    "koi_period": 112.951287,
+    "koi_time0bk": 172.0238,
+    "koi_depth": 555.6,
+    "koi_duration": 4.284
+  },
+  {
+    "kepid": 8525286,
+    "kepoi_name": "K05533.01",
+    "koi_period": 113.05980069,
+    "koi_time0bk": 241.0089927,
+    "koi_depth": null,
+    "koi_duration": 19.03
+  },
+  {
+    "kepid": 10658177,
+    "kepoi_name": "K05817.01",
+    "koi_period": 113.083522,
+    "koi_time0bk": 217.1521,
+    "koi_depth": 130.7,
+    "koi_duration": 10.315
+  },
+  {
+    "kepid": 8937555,
+    "kepoi_name": "K05585.01",
+    "koi_period": 113.573945,
+    "koi_time0bk": 216.47178,
+    "koi_depth": 249.6,
+    "koi_duration": 3.007
+  },
+  {
+    "kepid": 10678912,
+    "kepoi_name": "K05821.01",
+    "koi_period": 113.71363032,
+    "koi_time0bk": 179.5299204,
+    "koi_depth": null,
+    "koi_duration": 2.45
+  },
+  {
+    "kepid": 9178894,
+    "kepoi_name": "K05635.01",
+    "koi_period": 113.993156,
+    "koi_time0bk": 171.1834,
+    "koi_depth": 69.7,
+    "koi_duration": 7.721
+  },
+  {
+    "kepid": 9534832,
+    "kepoi_name": "K05689.01",
+    "koi_period": 114.12716,
+    "koi_time0bk": 226.87991,
+    "koi_depth": 974,
+    "koi_duration": 1.719
+  },
+  {
+    "kepid": 5306984,
+    "kepoi_name": "K06127.01",
+    "koi_period": 114.27173902,
+    "koi_time0bk": 163.3628542,
+    "koi_depth": null,
+    "koi_duration": 2.19
+  },
+  {
+    "kepid": 11100170,
+    "kepoi_name": "K05869.01",
+    "koi_period": 114.406187,
+    "koi_time0bk": 225.7127,
+    "koi_depth": 1306,
+    "koi_duration": 4.92
+  },
+  {
+    "kepid": 11773174,
+    "kepoi_name": "K05931.01",
+    "koi_period": 115.19952922,
+    "koi_time0bk": 218.1108918,
+    "koi_depth": null,
+    "koi_duration": 2.67
+  },
+  {
+    "kepid": 2305866,
+    "kepoi_name": "K02610.02",
+    "koi_period": 115.230655,
+    "koi_time0bk": 176.644,
+    "koi_depth": 164.4,
+    "koi_duration": 17.735
+  },
+  {
+    "kepid": 4063943,
+    "kepoi_name": "K05035.01",
+    "koi_period": 115.23145073,
+    "koi_time0bk": 211.6353632,
+    "koi_depth": null,
+    "koi_duration": 2.01
+  },
+  {
+    "kepid": 4270799,
+    "kepoi_name": "K04810.01",
+    "koi_period": 115.238544,
+    "koi_time0bk": 155.5989,
+    "koi_depth": 516.7,
+    "koi_duration": 7.653
+  },
+  {
+    "kepid": 9147012,
+    "kepoi_name": "K05625.01",
+    "koi_period": 116.454312,
+    "koi_time0bk": 161.9891,
+    "koi_depth": 2125.3,
+    "koi_duration": 15.826
+  },
+  {
+    "kepid": 3865815,
+    "kepoi_name": "K05022.01",
+    "koi_period": 117.26808432,
+    "koi_time0bk": 146.7201011,
+    "koi_depth": null,
+    "koi_duration": 2.2
+  },
+  {
+    "kepid": 3229028,
+    "kepoi_name": "K06100.02",
+    "koi_period": 117.684591,
+    "koi_time0bk": 157.4182,
+    "koi_depth": 134.6,
+    "koi_duration": 2.219
+  },
+  {
+    "kepid": 11623629,
+    "kepoi_name": "K00365.02",
+    "koi_period": 117.761,
+    "koi_time0bk": 175.5599,
+    "koi_depth": 53.9,
+    "koi_duration": 3.454
+  },
+  {
+    "kepid": 6862328,
+    "kepoi_name": "K00865.01",
+    "koi_period": 119.0207044,
+    "koi_time0bk": 222.236492,
+    "koi_depth": 7430.5,
+    "koi_duration": 8.1405
+  },
+  {
+    "kepid": 3942446,
+    "kepoi_name": "K01193.01",
+    "koi_period": 119.0624882,
+    "koi_time0bk": 149.22223,
+    "koi_depth": 5372.3,
+    "koi_duration": 3.1188
+  },
+  {
+    "kepid": 8016650,
+    "kepoi_name": "K05461.01",
+    "koi_period": 119.079642,
+    "koi_time0bk": 134.0349,
+    "koi_depth": 422.5,
+    "koi_duration": 16.268
+  },
+  {
+    "kepid": 12416987,
+    "kepoi_name": "K02933.01",
+    "koi_period": 119.0833042,
+    "koi_time0bk": 163.56212,
+    "koi_depth": 2951,
+    "koi_duration": 2.558
+  },
+  {
+    "kepid": 3345675,
+    "kepoi_name": "K01772.01",
+    "koi_period": 120.00336404,
+    "koi_time0bk": 250.137832,
+    "koi_depth": 39596,
+    "koi_duration": 3.3803
+  },
+  {
+    "kepid": 8644911,
+    "kepoi_name": "K05553.01",
+    "koi_period": 120.938669,
+    "koi_time0bk": 246.252,
+    "koi_depth": 782.1,
+    "koi_duration": 8.818
+  },
+  {
+    "kepid": 10321972,
+    "kepoi_name": "K07998.01",
+    "koi_period": 122.11555,
+    "koi_time0bk": 228.38,
+    "koi_depth": 1104,
+    "koi_duration": 16.07
+  },
+  {
+    "kepid": 8294683,
+    "kepoi_name": "K05499.01",
+    "koi_period": 122.58481,
+    "koi_time0bk": 178.4735,
+    "koi_depth": 318.9,
+    "koi_duration": 22.37
+  },
+  {
+    "kepid": 9773270,
+    "kepoi_name": "K04636.01",
+    "koi_period": 122.749053,
+    "koi_time0bk": 170.9953,
+    "koi_depth": 1041.2,
+    "koi_duration": 8.342
+  },
+  {
+    "kepid": 3634051,
+    "kepoi_name": "K06103.02",
+    "koi_period": 122.8054416,
+    "koi_time0bk": 179.31732,
+    "koi_depth": 313,
+    "koi_duration": 2.663
+  },
+  {
+    "kepid": 10656508,
+    "kepoi_name": "K00211.01",
+    "koi_period": 124.03589939,
+    "koi_time0bk": 136.015098,
+    "koi_depth": 7690,
+    "koi_duration": 4.8472
+  },
+  {
+    "kepid": 7770901,
+    "kepoi_name": "K05426.01",
+    "koi_period": 124.887214,
+    "koi_time0bk": 133.7933,
+    "koi_depth": 176.5,
+    "koi_duration": 8.599
+  },
+  {
+    "kepid": 11911929,
+    "kepoi_name": "K05942.01",
+    "koi_period": 125.277815,
+    "koi_time0bk": 170.8865,
+    "koi_depth": 432.3,
+    "koi_duration": 4.442
+  },
+  {
+    "kepid": 7899070,
+    "kepoi_name": "K02683.01",
+    "koi_period": 126.4451275,
+    "koi_time0bk": 166.49998,
+    "koi_depth": 3252.5,
+    "koi_duration": 16.7151
+  },
+  {
+    "kepid": 2852810,
+    "kepoi_name": "K06097.04",
+    "koi_period": 126.505657,
+    "koi_time0bk": 239.693,
+    "koi_depth": 95.5,
+    "koi_duration": 8.836
+  },
+  {
+    "kepid": 3757521,
+    "kepoi_name": "K05006.01",
+    "koi_period": 126.51457638,
+    "koi_time0bk": 167.3005742,
+    "koi_depth": null,
+    "koi_duration": 2.15
+  },
+  {
+    "kepid": 7125794,
+    "kepoi_name": "K05358.01",
+    "koi_period": 126.586058,
+    "koi_time0bk": 222.9909,
+    "koi_depth": 124.9,
+    "koi_duration": 5.41
+  },
+  {
+    "kepid": 3974928,
+    "kepoi_name": "K05033.01",
+    "koi_period": 127.671711,
+    "koi_time0bk": 227.0906,
+    "koi_depth": 450.1,
+    "koi_duration": 2.637
+  },
+  {
+    "kepid": 8297017,
+    "kepoi_name": "K07879.01",
+    "koi_period": 128.208643,
+    "koi_time0bk": 230.1943,
+    "koi_depth": 212.2,
+    "koi_duration": 2.745
+  },
+  {
+    "kepid": 8120820,
+    "kepoi_name": "K06971.01",
+    "koi_period": 129.222771,
+    "koi_time0bk": 255.1859,
+    "koi_depth": 445.3,
+    "koi_duration": 7.272
+  },
+  {
+    "kepid": 5193439,
+    "kepoi_name": "K06538.01",
+    "koi_period": 129.847318,
+    "koi_time0bk": 240.6812,
+    "koi_depth": 198.4,
+    "koi_duration": 13.057
+  },
+  {
+    "kepid": 8489260,
+    "kepoi_name": "K07889.01",
+    "koi_period": 130.235324,
+    "koi_time0bk": 218.2719,
+    "koi_depth": 750.1,
+    "koi_duration": 5.678
+  },
+  {
+    "kepid": 7974634,
+    "kepoi_name": "K06168.01",
+    "koi_period": 131.258668,
+    "koi_time0bk": 182.3187,
+    "koi_depth": 153,
+    "koi_duration": 4.89
+  },
+  {
+    "kepid": 6934986,
+    "kepoi_name": "K02294.01",
+    "koi_period": 131.485184,
+    "koi_time0bk": 177.48749,
+    "koi_depth": 557.8,
+    "koi_duration": 5.294
+  },
+  {
+    "kepid": 11129145,
+    "kepoi_name": "K05870.01",
+    "koi_period": 132.114,
+    "koi_time0bk": 238.008,
+    "koi_depth": 216.8,
+    "koi_duration": 2.514
+  },
+  {
+    "kepid": 5888187,
+    "kepoi_name": "K07749.01",
+    "koi_period": 133.6348207,
+    "koi_time0bk": 236.35163,
+    "koi_depth": 420.9,
+    "koi_duration": 1.584
+  },
+  {
+    "kepid": 11251991,
+    "kepoi_name": "K05881.01",
+    "koi_period": 134.35872,
+    "koi_time0bk": 201.2636,
+    "koi_depth": 75.2,
+    "koi_duration": 13.3
+  },
+  {
+    "kepid": 10089123,
+    "kepoi_name": "K07283.01",
+    "koi_period": 134.413808,
+    "koi_time0bk": 227.9768,
+    "koi_depth": 206.1,
+    "koi_duration": 13.907
+  },
+  {
+    "kepid": 7416306,
+    "kepoi_name": "K05388.01",
+    "koi_period": 137.396194,
+    "koi_time0bk": 158.9242,
+    "koi_depth": 155.4,
+    "koi_duration": 17.61
+  },
+  {
+    "kepid": 4241238,
+    "kepoi_name": "K05048.01",
+    "koi_period": 138.333748,
+    "koi_time0bk": 209.39452,
+    "koi_depth": 603.6,
+    "koi_duration": 2.391
+  },
+  {
+    "kepid": 5471158,
+    "kepoi_name": "K03504.02",
+    "koi_period": 140.24408749,
+    "koi_time0bk": 217.2997957,
+    "koi_depth": null,
+    "koi_duration": 5.43
+  },
+  {
+    "kepid": 9391817,
+    "kepoi_name": "K05663.01",
+    "koi_period": 140.884533,
+    "koi_time0bk": 243.1411,
+    "koi_depth": 158,
+    "koi_duration": 10.245
+  },
+  {
+    "kepid": 3663850,
+    "kepoi_name": "K08089.01",
+    "koi_period": 141.400279,
+    "koi_time0bk": 208.22014,
+    "koi_depth": 790.1,
+    "koi_duration": 3.031
+  },
+  {
+    "kepid": 4947556,
+    "kepoi_name": "K03936.01",
+    "koi_period": 141.608555,
+    "koi_time0bk": 190.27633,
+    "koi_depth": 1263.1,
+    "koi_duration": 7.685
+  },
+  {
+    "kepid": 7813039,
+    "kepoi_name": "K03787.01",
+    "koi_period": 141.73403059,
+    "koi_time0bk": 167.345982,
+    "koi_depth": 7736.4,
+    "koi_duration": 1.5851
+  },
+  {
+    "kepid": 4078157,
+    "kepoi_name": "K01319.02",
+    "koi_period": 142.685885,
+    "koi_time0bk": 175.9722,
+    "koi_depth": 1195,
+    "koi_duration": 3.792
+  },
+  {
+    "kepid": 11658036,
+    "kepoi_name": "K04771.01",
+    "koi_period": 142.703888,
+    "koi_time0bk": 212.0311,
+    "koi_depth": 225.5,
+    "koi_duration": 5.808
+  },
+  {
+    "kepid": 8223568,
+    "kepoi_name": "K06176.01",
+    "koi_period": 143.09688,
+    "koi_time0bk": 143.701,
+    "koi_depth": 125,
+    "koi_duration": 17.74
+  },
+  {
+    "kepid": 5036052,
+    "kepoi_name": "K05119.01",
+    "koi_period": 143.163697,
+    "koi_time0bk": 243.7133,
+    "koi_depth": 390.3,
+    "koi_duration": 4.854
+  },
+  {
+    "kepid": 11974540,
+    "kepoi_name": "K00129.02",
+    "koi_period": 143.21109362,
+    "koi_time0bk": 221.7556468,
+    "koi_depth": null,
+    "koi_duration": 2.71
+  },
+  {
+    "kepid": 11775507,
+    "kepoi_name": "K06245.01",
+    "koi_period": 144.102562,
+    "koi_time0bk": 198.0696,
+    "koi_depth": 171.3,
+    "koi_duration": 2.753
+  },
+  {
+    "kepid": 10964440,
+    "kepoi_name": "K01310.02",
+    "koi_period": 144.688915,
+    "koi_time0bk": 256.343,
+    "koi_depth": 397.1,
+    "koi_duration": 9.468
+  },
+  {
+    "kepid": 9514372,
+    "kepoi_name": "K04242.01",
+    "koi_period": 145.786556,
+    "koi_time0bk": 215.0441,
+    "koi_depth": 378,
+    "koi_duration": 4.891
+  },
+  {
+    "kepid": 6716545,
+    "kepoi_name": "K02906.02",
+    "koi_period": 145.881936,
+    "koi_time0bk": 194.6951,
+    "koi_depth": 156.9,
+    "koi_duration": 11.342
+  },
+  {
+    "kepid": 10798331,
+    "kepoi_name": "K02373.01",
+    "koi_period": 147.281212,
+    "koi_time0bk": 148.80124,
+    "koi_depth": 452.8,
+    "koi_duration": 7.375
+  },
+  {
+    "kepid": 9782748,
+    "kepoi_name": "K04856.01",
+    "koi_period": 147.388124,
+    "koi_time0bk": 174.6537,
+    "koi_depth": 909.2,
+    "koi_duration": 8.781
+  },
+  {
+    "kepid": 4172805,
+    "kepoi_name": "K04427.01",
+    "koi_period": 147.661729,
+    "koi_time0bk": 243.95262,
+    "koi_depth": 1087.8,
+    "koi_duration": 6.207
+  },
+  {
+    "kepid": 8105719,
+    "kepoi_name": "K05476.01",
+    "koi_period": 148.179343,
+    "koi_time0bk": 202.2788,
+    "koi_depth": 466.6,
+    "koi_duration": 12.733
+  },
+  {
+    "kepid": 10003058,
+    "kepoi_name": "K04519.01",
+    "koi_period": 148.568877,
+    "koi_time0bk": 139.60402,
+    "koi_depth": 404.4,
+    "koi_duration": 4.399
+  },
+  {
+    "kepid": 5706595,
+    "kepoi_name": "K02183.03",
+    "koi_period": 150.381954,
+    "koi_time0bk": 205.2811,
+    "koi_depth": 396.1,
+    "koi_duration": 4.968
+  },
+  {
+    "kepid": 11457664,
+    "kepoi_name": "K05902.01",
+    "koi_period": 150.728285,
+    "koi_time0bk": 223.0487,
+    "koi_depth": 213.5,
+    "koi_duration": 2.718
+  },
+  {
+    "kepid": 5394585,
+    "kepoi_name": "K05158.01",
+    "koi_period": 151.13008,
+    "koi_time0bk": 278.463,
+    "koi_depth": 358,
+    "koi_duration": 3.49
+  },
+  {
+    "kepid": 9173014,
+    "kepoi_name": "K05633.01",
+    "koi_period": 151.77884,
+    "koi_time0bk": 204.5209,
+    "koi_depth": 189.7,
+    "koi_duration": 2.615
+  },
+  {
+    "kepid": 11566064,
+    "kepoi_name": "K00353.01",
+    "koi_period": 152.1060435,
+    "koi_time0bk": 176.52741,
+    "koi_depth": 3688.3,
+    "koi_duration": 7.4517
+  },
+  {
+    "kepid": 8359569,
+    "kepoi_name": "K04667.01",
+    "koi_period": 152.823896,
+    "koi_time0bk": 147.5443,
+    "koi_depth": 456.2,
+    "koi_duration": 7.734
+  },
+  {
+    "kepid": 9974142,
+    "kepoi_name": "K06214.02",
+    "koi_period": 154.536881,
+    "koi_time0bk": 177.697,
+    "koi_depth": 258.5,
+    "koi_duration": 15.44
+  },
+  {
+    "kepid": 10545066,
+    "kepoi_name": "K00337.02",
+    "koi_period": 154.607419,
+    "koi_time0bk": 250.5204,
+    "koi_depth": 279.9,
+    "koi_duration": 9.225
+  },
+  {
+    "kepid": 7272132,
+    "kepoi_name": "K04466.01",
+    "koi_period": 154.674369,
+    "koi_time0bk": 177.3621,
+    "koi_depth": 435.8,
+    "koi_duration": 9.35
+  },
+  {
+    "kepid": 12417486,
+    "kepoi_name": "K00622.01",
+    "koi_period": 155.042265,
+    "koi_time0bk": 213.49978,
+    "koi_depth": 4880.9,
+    "koi_duration": 9.848
+  },
+  {
+    "kepid": 3558849,
+    "kepoi_name": "K04307.01",
+    "koi_period": 160.850075,
+    "koi_time0bk": 144.5039,
+    "koi_depth": 428.1,
+    "koi_duration": 9.427
+  },
+  {
+    "kepid": 4150972,
+    "kepoi_name": "K05044.01",
+    "koi_period": 161.537665,
+    "koi_time0bk": 280.9898,
+    "koi_depth": 101.8,
+    "koi_duration": 2.65
+  },
+  {
+    "kepid": 9935983,
+    "kepoi_name": "K05736.01",
+    "koi_period": 161.651504,
+    "koi_time0bk": 289.32322,
+    "koi_depth": 253.6,
+    "koi_duration": 2.509
+  },
+  {
+    "kepid": 8631160,
+    "kepoi_name": "K01271.01",
+    "koi_period": 162.0479502,
+    "koi_time0bk": 278.880573,
+    "koi_depth": 4840.5,
+    "koi_duration": 9.8974
+  },
+  {
+    "kepid": 9551430,
+    "kepoi_name": "K04030.02",
+    "koi_period": 163.51489847,
+    "koi_time0bk": 144.8531292,
+    "koi_depth": null,
+    "koi_duration": 3.08
+  },
+  {
+    "kepid": 12071775,
+    "kepoi_name": "K05952.01",
+    "koi_period": 164.507439,
+    "koi_time0bk": 212.7605,
+    "koi_depth": 433.8,
+    "koi_duration": 11.428
+  },
+  {
+    "kepid": 8308347,
+    "kepoi_name": "K03761.01",
+    "koi_period": 164.950399,
+    "koi_time0bk": 280.9154,
+    "koi_depth": 24493,
+    "koi_duration": 30.86
+  },
+  {
+    "kepid": 10265602,
+    "kepoi_name": "K02689.01",
+    "koi_period": 165.3447044,
+    "koi_time0bk": 174.29621,
+    "koi_depth": 4899,
+    "koi_duration": 3.09
+  },
+  {
+    "kepid": 6289650,
+    "kepoi_name": "K00415.01",
+    "koi_period": 166.7876551,
+    "koi_time0bk": 245.143036,
+    "koi_depth": 4764.2,
+    "koi_duration": 5.8676
+  },
+  {
+    "kepid": 4464394,
+    "kepoi_name": "K06115.01",
+    "koi_period": 168.66934782,
+    "koi_time0bk": 132.5942053,
+    "koi_depth": null,
+    "koi_duration": 4.07
+  },
+  {
+    "kepid": 4940376,
+    "kepoi_name": "K05107.01",
+    "koi_period": 169.330666,
+    "koi_time0bk": 208.7974,
+    "koi_depth": 532.7,
+    "koi_duration": 2.6
+  },
+  {
+    "kepid": 10879899,
+    "kepoi_name": "K05839.01",
+    "koi_period": 169.415073,
+    "koi_time0bk": 283.3498,
+    "koi_depth": 239.9,
+    "koi_duration": 3.884
+  },
+  {
+    "kepid": 7811397,
+    "kepoi_name": "K01477.01",
+    "koi_period": 169.4976085,
+    "koi_time0bk": 228.99997,
+    "koi_depth": 12192,
+    "koi_duration": 7.77
+  },
+  {
+    "kepid": 9330740,
+    "kepoi_name": "K05656.01",
+    "koi_period": 169.84787744,
+    "koi_time0bk": 178.6902845,
+    "koi_depth": null,
+    "koi_duration": 2.82
+  },
+  {
+    "kepid": 4773392,
+    "kepoi_name": "K04367.01",
+    "koi_period": 170.995748,
+    "koi_time0bk": 163.95737,
+    "koi_depth": 477.1,
+    "koi_duration": 3.88
+  },
+  {
+    "kepid": 6025174,
+    "kepoi_name": "K05224.01",
+    "koi_period": 171.028691,
+    "koi_time0bk": 301.7487,
+    "koi_depth": 394.2,
+    "koi_duration": 11.784
+  },
+  {
+    "kepid": 11069681,
+    "kepoi_name": "K05859.01",
+    "koi_period": 172.621943,
+    "koi_time0bk": 170.014,
+    "koi_depth": 788,
+    "koi_duration": 4.435
+  },
+  {
+    "kepid": 7300182,
+    "kepoi_name": "K07833.01",
+    "koi_period": 172.820248,
+    "koi_time0bk": 302.0399,
+    "koi_depth": 549.3,
+    "koi_duration": 7.343
+  },
+  {
+    "kepid": 8890417,
+    "kepoi_name": "K05580.01",
+    "koi_period": 173.219879,
+    "koi_time0bk": 201.2993,
+    "koi_depth": 239.5,
+    "koi_duration": 1.875
+  },
+  {
+    "kepid": 9202434,
+    "kepoi_name": "K04253.01",
+    "koi_period": 173.2578372,
+    "koi_time0bk": 194.4584,
+    "koi_depth": 687,
+    "koi_duration": 2.027
+  },
+  {
+    "kepid": 7296438,
+    "kepoi_name": "K00364.01",
+    "koi_period": 173.92851338,
+    "koi_time0bk": 223.7546088,
+    "koi_depth": null,
+    "koi_duration": 2.64
+  },
+  {
+    "kepid": 3663173,
+    "kepoi_name": "K02750.01",
+    "koi_period": 174.636181,
+    "koi_time0bk": 184.5253,
+    "koi_depth": 2500.9,
+    "koi_duration": 15.679
+  },
+  {
+    "kepid": 10749059,
+    "kepoi_name": "K03086.01",
+    "koi_period": 174.731515,
+    "koi_time0bk": 252.5348,
+    "koi_depth": 1179.9,
+    "koi_duration": 8.257
+  },
+  {
+    "kepid": 11614808,
+    "kepoi_name": "K05921.01",
+    "koi_period": 175.452812,
+    "koi_time0bk": 204.8241,
+    "koi_depth": 141.8,
+    "koi_duration": 2.734
+  },
+  {
+    "kepid": 6765135,
+    "kepoi_name": "K02592.01",
+    "koi_period": 175.603366,
+    "koi_time0bk": 202.3721,
+    "koi_depth": 506.8,
+    "koi_duration": 9.543
+  },
+  {
+    "kepid": 10026544,
+    "kepoi_name": "K02312.01",
+    "koi_period": 176.331289,
+    "koi_time0bk": 170.8589,
+    "koi_depth": 109.8,
+    "koi_duration": 13.89
+  },
+  {
+    "kepid": 8240617,
+    "kepoi_name": "K02474.01",
+    "koi_period": 176.845697,
+    "koi_time0bk": 197.27794,
+    "koi_depth": 431.6,
+    "koi_duration": 3.812
+  },
+  {
+    "kepid": 10535708,
+    "kepoi_name": "K05801.01",
+    "koi_period": 177.37583,
+    "koi_time0bk": 169.0841,
+    "koi_depth": 459.7,
+    "koi_duration": 21.14
+  },
+  {
+    "kepid": 10394802,
+    "kepoi_name": "K05790.01",
+    "koi_period": 178.266978,
+    "koi_time0bk": 229.75414,
+    "koi_depth": 1857,
+    "koi_duration": 5.276
+  },
+  {
+    "kepid": 6198670,
+    "kepoi_name": "K05248.01",
+    "koi_period": 179.25465,
+    "koi_time0bk": 154.3773,
+    "koi_depth": 272.4,
+    "koi_duration": 22.35
+  },
+  {
+    "kepid": 4566848,
+    "kepoi_name": "K05071.01",
+    "koi_period": 180.4118581,
+    "koi_time0bk": 142.86513,
+    "koi_depth": 4268,
+    "koi_duration": 3.29
+  },
+  {
+    "kepid": 6517064,
+    "kepoi_name": "K05289.01",
+    "koi_period": 181.81214,
+    "koi_time0bk": 144.6702,
+    "koi_depth": 474.6,
+    "koi_duration": 16.164
+  },
+  {
+    "kepid": 9397862,
+    "kepoi_name": "K05666.01",
+    "koi_period": 182.453195,
+    "koi_time0bk": 282.5445,
+    "koi_depth": 184,
+    "koi_duration": 2.721
+  },
+  {
+    "kepid": 11966643,
+    "kepoi_name": "K05946.01",
+    "koi_period": 183.38048452,
+    "koi_time0bk": 298.0782368,
+    "koi_depth": null,
+    "koi_duration": 3.25
+  },
+  {
+    "kepid": 10519727,
+    "kepoi_name": "K05799.01",
+    "koi_period": 184.883155,
+    "koi_time0bk": 283.41765,
+    "koi_depth": 304.1,
+    "koi_duration": 3.025
+  },
+  {
+    "kepid": 9268159,
+    "kepoi_name": "K08180.01",
+    "koi_period": 185.97534,
+    "koi_time0bk": 299.6938,
+    "koi_depth": 54.5,
+    "koi_duration": 8.744
+  },
+  {
+    "kepid": 4918309,
+    "kepoi_name": "K01582.01",
+    "koi_period": 186.4361811,
+    "koi_time0bk": 146.91825,
+    "koi_depth": 4347,
+    "koi_duration": 5.774
+  },
+  {
+    "kepid": 9300066,
+    "kepoi_name": "K05653.01",
+    "koi_period": 188.664098,
+    "koi_time0bk": 154.3037,
+    "koi_depth": 960,
+    "koi_duration": 5.179
+  },
+  {
+    "kepid": 9521317,
+    "kepoi_name": "K07940.01",
+    "koi_period": 188.881049,
+    "koi_time0bk": 280.06822,
+    "koi_depth": 325.8,
+    "koi_duration": 1.49
+  },
+  {
+    "kepid": 6594945,
+    "kepoi_name": "K05300.01",
+    "koi_period": 188.954072,
+    "koi_time0bk": 160.7576,
+    "koi_depth": 166.5,
+    "koi_duration": 14.17
+  },
+  {
+    "kepid": 11872364,
+    "kepoi_name": "K08232.01",
+    "koi_period": 189.183958,
+    "koi_time0bk": 132.3331,
+    "koi_depth": 1014,
+    "koi_duration": 6.829
+  },
+  {
+    "kepid": 11182213,
+    "kepoi_name": "K05876.01",
+    "koi_period": 189.456089,
+    "koi_time0bk": 233.6331,
+    "koi_depth": 453,
+    "koi_duration": 3.077
+  },
+  {
+    "kepid": 9832379,
+    "kepoi_name": "K05715.01",
+    "koi_period": 189.961729,
+    "koi_time0bk": 288.3907,
+    "koi_depth": 699.9,
+    "koi_duration": 12.46
+  },
+  {
+    "kepid": 6697817,
+    "kepoi_name": "K03508.01",
+    "koi_period": 190.800788,
+    "koi_time0bk": 236.0389,
+    "koi_depth": 287.6,
+    "koi_duration": 8.082
+  },
+  {
+    "kepid": 11348610,
+    "kepoi_name": "K05888.01",
+    "koi_period": 190.860818,
+    "koi_time0bk": 256.5195,
+    "koi_depth": 512,
+    "koi_duration": 2.823
+  },
+  {
+    "kepid": 9417931,
+    "kepoi_name": "K05671.01",
+    "koi_period": 190.905243,
+    "koi_time0bk": 193.3008,
+    "koi_depth": 227.1,
+    "koi_duration": 2.529
+  },
+  {
+    "kepid": 9592621,
+    "kepoi_name": "K08286.01",
+    "koi_period": 191.03728,
+    "koi_time0bk": 153.9107,
+    "koi_depth": 1607,
+    "koi_duration": 3.595
+  },
+  {
+    "kepid": 4247991,
+    "kepoi_name": "K02311.01",
+    "koi_period": 191.86419296,
+    "koi_time0bk": 294.47036,
+    "koi_depth": null,
+    "koi_duration": 4.9
+  },
+  {
+    "kepid": 9157523,
+    "kepoi_name": "K05629.01",
+    "koi_period": 192.138741,
+    "koi_time0bk": 269.2098,
+    "koi_depth": 151.4,
+    "koi_duration": 3.218
+  },
+  {
+    "kepid": 7768451,
+    "kepoi_name": "K01527.01",
+    "koi_period": 192.667139,
+    "koi_time0bk": 162.87962,
+    "koi_depth": 1148.3,
+    "koi_duration": 5.443
+  },
+  {
+    "kepid": 12066767,
+    "kepoi_name": "K05951.01",
+    "koi_period": 194.25835342,
+    "koi_time0bk": 288.4461343,
+    "koi_depth": null,
+    "koi_duration": 3.15
+  },
+  {
+    "kepid": 11341164,
+    "kepoi_name": "K06238.01",
+    "koi_period": 197.05431574,
+    "koi_time0bk": 266.1346771,
+    "koi_depth": null,
+    "koi_duration": 6.38
+  },
+  {
+    "kepid": 10464199,
+    "kepoi_name": "K07330.01",
+    "koi_period": 198.11309,
+    "koi_time0bk": 175.3243,
+    "koi_depth": 53.3,
+    "koi_duration": 15.59
+  },
+  {
+    "kepid": 10199984,
+    "kepoi_name": "K05776.01",
+    "koi_period": 198.6004,
+    "koi_time0bk": 163.566,
+    "koi_depth": 300.8,
+    "koi_duration": 3.53
+  },
+  {
+    "kepid": 11305417,
+    "kepoi_name": "K05883.01",
+    "koi_period": 198.781156,
+    "koi_time0bk": 284.3868,
+    "koi_depth": 138.3,
+    "koi_duration": 6.77
+  },
+  {
+    "kepid": 5255259,
+    "kepoi_name": "K05142.01",
+    "koi_period": 198.895864,
+    "koi_time0bk": 225.4944,
+    "koi_depth": 1779,
+    "koi_duration": 4.193
+  },
+  {
+    "kepid": 10977671,
+    "kepoi_name": "K05846.01",
+    "koi_period": 199.064336,
+    "koi_time0bk": 180.0893,
+    "koi_depth": 265,
+    "koi_duration": 13.623
+  },
+  {
+    "kepid": 11805075,
+    "kepoi_name": "K00436.01",
+    "koi_period": 199.83920527,
+    "koi_time0bk": 225.35896,
+    "koi_depth": 44490,
+    "koi_duration": 4.378
+  },
+  {
+    "kepid": 6805414,
+    "kepoi_name": "K05329.01",
+    "koi_period": 200.2350497,
+    "koi_time0bk": 305.44985,
+    "koi_depth": 10812.1,
+    "koi_duration": 23.612
+  },
+  {
+    "kepid": 12734396,
+    "kepoi_name": "K04303.01",
+    "koi_period": 200.721168,
+    "koi_time0bk": 280.0733,
+    "koi_depth": 822.5,
+    "koi_duration": 9.91
+  },
+  {
+    "kepid": 9893468,
+    "kepoi_name": "K04575.01",
+    "koi_period": 201.325036,
+    "koi_time0bk": 174.7724,
+    "koi_depth": 125.4,
+    "koi_duration": 14.4
+  },
+  {
+    "kepid": 8507586,
+    "kepoi_name": "K05528.01",
+    "koi_period": 201.621794,
+    "koi_time0bk": 261.7721,
+    "koi_depth": 480,
+    "koi_duration": 3.172
+  },
+  {
+    "kepid": 4820550,
+    "kepoi_name": "K03823.01",
+    "koi_period": 202.1168173,
+    "koi_time0bk": 292.05064,
+    "koi_depth": 2701.2,
+    "koi_duration": 4.683
+  },
+  {
+    "kepid": 10865043,
+    "kepoi_name": "K05836.01",
+    "koi_period": 202.18722766,
+    "koi_time0bk": 174.3624491,
+    "koi_depth": null,
+    "koi_duration": 2.77
+  },
+  {
+    "kepid": 10917043,
+    "kepoi_name": "K02770.01",
+    "koi_period": 205.385912,
+    "koi_time0bk": 284.18824,
+    "koi_depth": 1248.7,
+    "koi_duration": 8.681
+  },
+  {
+    "kepid": 4742420,
+    "kepoi_name": "K06120.02",
+    "koi_period": 205.41415,
+    "koi_time0bk": 295.6538,
+    "koi_depth": 283.8,
+    "koi_duration": 10.26
+  },
+  {
+    "kepid": 9475697,
+    "kepoi_name": "K05684.01",
+    "koi_period": 206.801125,
+    "koi_time0bk": 246.8488,
+    "koi_depth": 716,
+    "koi_duration": 6.6
+  },
+  {
+    "kepid": 10618044,
+    "kepoi_name": "K05815.01",
+    "koi_period": 207.767894,
+    "koi_time0bk": 224.425,
+    "koi_depth": 320.6,
+    "koi_duration": 5.21
+  },
+  {
+    "kepid": 10737437,
+    "kepoi_name": "K05825.01",
+    "koi_period": 208.047137,
+    "koi_time0bk": 321.9021,
+    "koi_depth": 287.5,
+    "koi_duration": 3.22
+  },
+  {
+    "kepid": 11810124,
+    "kepoi_name": "K03344.03",
+    "koi_period": 208.54335,
+    "koi_time0bk": 230.9934,
+    "koi_depth": 614.6,
+    "koi_duration": 9.851
+  },
+  {
+    "kepid": 9723746,
+    "kepoi_name": "K05707.01",
+    "koi_period": 208.800733,
+    "koi_time0bk": 328.6955,
+    "koi_depth": 594,
+    "koi_duration": 1.964
+  },
+  {
+    "kepid": 5436455,
+    "kepoi_name": "K05164.01",
+    "koi_period": 209.967521,
+    "koi_time0bk": 241.95921,
+    "koi_depth": 120,
+    "koi_duration": 2.585
+  },
+  {
+    "kepid": 3548645,
+    "kepoi_name": "K04991.01",
+    "koi_period": 211.330867,
+    "koi_time0bk": 244.953,
+    "koi_depth": 531,
+    "koi_duration": 4.66
+  },
+  {
+    "kepid": 11191364,
+    "kepoi_name": "K05878.01",
+    "koi_period": 211.54114,
+    "koi_time0bk": 236.2702,
+    "koi_depth": 751,
+    "koi_duration": 5.4
+  },
+  {
+    "kepid": 11656928,
+    "kepoi_name": "K06242.01",
+    "koi_period": 212.43503674,
+    "koi_time0bk": 239.8349648,
+    "koi_depth": null,
+    "koi_duration": 4.26
+  },
+  {
+    "kepid": 7205717,
+    "kepoi_name": "K05372.01",
+    "koi_period": 212.60398,
+    "koi_time0bk": 213.4113,
+    "koi_depth": 188.5,
+    "koi_duration": 5.74
+  },
+  {
+    "kepid": 12121701,
+    "kepoi_name": "K05956.01",
+    "koi_period": 212.646179,
+    "koi_time0bk": 221.6137,
+    "koi_depth": 953,
+    "koi_duration": 2.539
+  },
+  {
+    "kepid": 7881464,
+    "kepoi_name": "K05437.01",
+    "koi_period": 213.63312404,
+    "koi_time0bk": 161.1886697,
+    "koi_depth": null,
+    "koi_duration": 2.54
+  },
+  {
+    "kepid": 8165617,
+    "kepoi_name": "K06173.01",
+    "koi_period": 214.013044,
+    "koi_time0bk": 179.8607,
+    "koi_depth": 123.2,
+    "koi_duration": 7.87
+  },
+  {
+    "kepid": 6721603,
+    "kepoi_name": "K05321.01",
+    "koi_period": 215.634356,
+    "koi_time0bk": 230.7211,
+    "koi_depth": 148,
+    "koi_duration": 15.097
+  },
+  {
+    "kepid": 5529385,
+    "kepoi_name": "K05176.01",
+    "koi_period": 215.732414,
+    "koi_time0bk": 294.363,
+    "koi_depth": 208.2,
+    "koi_duration": 1.915
+  },
+  {
+    "kepid": 8264402,
+    "kepoi_name": "K04037.01",
+    "koi_period": 215.956008,
+    "koi_time0bk": 271.3671,
+    "koi_depth": 392.7,
+    "koi_duration": 10.425
+  },
+  {
+    "kepid": 4902202,
+    "kepoi_name": "K04717.01",
+    "koi_period": 216.456055,
+    "koi_time0bk": 175.3753,
+    "koi_depth": 1002.8,
+    "koi_duration": 11.067
+  },
+  {
+    "kepid": 11147785,
+    "kepoi_name": "K05873.01",
+    "koi_period": 217.170081,
+    "koi_time0bk": 229.9068,
+    "koi_depth": 937,
+    "koi_duration": 4.291
+  },
+  {
+    "kepid": 11036168,
+    "kepoi_name": "K05855.01",
+    "koi_period": 217.792748,
+    "koi_time0bk": 210.6893,
+    "koi_depth": 1487,
+    "koi_duration": 4.695
+  },
+  {
+    "kepid": 5858919,
+    "kepoi_name": "K08109.01",
+    "koi_period": 218.771117,
+    "koi_time0bk": 250.92469,
+    "koi_depth": 140.1,
+    "koi_duration": 3.201
+  },
+  {
+    "kepid": 4072271,
+    "kepoi_name": "K07680.01",
+    "koi_period": 219.20579,
+    "koi_time0bk": 327.891,
+    "koi_depth": 207.8,
+    "koi_duration": 14.5
+  },
+  {
+    "kepid": 4478142,
+    "kepoi_name": "K05067.01",
+    "koi_period": 219.931324,
+    "koi_time0bk": 329.3836,
+    "koi_depth": 641,
+    "koi_duration": 4.818
+  },
+  {
+    "kepid": 7199906,
+    "kepoi_name": "K01739.01",
+    "koi_period": 220.65651253,
+    "koi_time0bk": 172.4278591,
+    "koi_depth": null,
+    "koi_duration": 7.82
+  },
+  {
+    "kepid": 6368905,
+    "kepoi_name": "K05276.01",
+    "koi_period": 220.720142,
+    "koi_time0bk": 303.8527,
+    "koi_depth": 862.5,
+    "koi_duration": 8.186
+  },
+  {
+    "kepid": 9217583,
+    "kepoi_name": "K05642.01",
+    "koi_period": 222.28056,
+    "koi_time0bk": 131.8546,
+    "koi_depth": 271.9,
+    "koi_duration": 3.035
+  },
+  {
+    "kepid": 9086154,
+    "kepoi_name": "K04060.01",
+    "koi_period": 225.26213,
+    "koi_time0bk": 224.9887,
+    "koi_depth": 389.2,
+    "koi_duration": 14.459
+  },
+  {
+    "kepid": 10331279,
+    "kepoi_name": "K08000.01",
+    "koi_period": 225.48805,
+    "koi_time0bk": 224.2023,
+    "koi_depth": 379.9,
+    "koi_duration": 19.46
+  },
+  {
+    "kepid": 6124137,
+    "kepoi_name": "K07764.01",
+    "koi_period": 227.83457,
+    "koi_time0bk": 238.7643,
+    "koi_depth": 155.3,
+    "koi_duration": 21.59
+  },
+  {
+    "kepid": 4255944,
+    "kepoi_name": "K06111.01",
+    "koi_period": 228.65412,
+    "koi_time0bk": 282.7548,
+    "koi_depth": 179.1,
+    "koi_duration": 2.487
+  },
+  {
+    "kepid": 12168280,
+    "kepoi_name": "K08297.01",
+    "koi_period": 229.957537,
+    "koi_time0bk": 326.0184,
+    "koi_depth": 400,
+    "koi_duration": 7.59
+  },
+  {
+    "kepid": 5374838,
+    "kepoi_name": "K05155.01",
+    "koi_period": 230.180357,
+    "koi_time0bk": 230.05245,
+    "koi_depth": 3689.3,
+    "koi_duration": 13.436
+  },
+  {
+    "kepid": 11183752,
+    "kepoi_name": "K05877.01",
+    "koi_period": 230.358183,
+    "koi_time0bk": 233.7677,
+    "koi_depth": 1023,
+    "koi_duration": 2.031
+  },
+  {
+    "kepid": 6266866,
+    "kepoi_name": "K05254.01",
+    "koi_period": 232.916142,
+    "koi_time0bk": 162.1441,
+    "koi_depth": 64.8,
+    "koi_duration": 7.037
+  },
+  {
+    "kepid": 9838582,
+    "kepoi_name": "K05718.01",
+    "koi_period": 233.64574,
+    "koi_time0bk": 297.494,
+    "koi_depth": 2268,
+    "koi_duration": 10.05
+  },
+  {
+    "kepid": 11021266,
+    "kepoi_name": "K05852.01",
+    "koi_period": 235.413973,
+    "koi_time0bk": 307.0728,
+    "koi_depth": 1027,
+    "koi_duration": 3.065
+  },
+  {
+    "kepid": 6867155,
+    "kepoi_name": "K00868.01",
+    "koi_period": 235.9986399,
+    "koi_time0bk": 208.399822,
+    "koi_depth": 20714.6,
+    "koi_duration": 8.2284
+  },
+  {
+    "kepid": 10554421,
+    "kepoi_name": "K05807.01",
+    "koi_period": 236.09799849,
+    "koi_time0bk": 210.0045018,
+    "koi_depth": null,
+    "koi_duration": 3.65
+  },
+  {
+    "kepid": 11807906,
+    "kepoi_name": "K05933.01",
+    "koi_period": 236.506437,
+    "koi_time0bk": 361.9687,
+    "koi_depth": 744.4,
+    "koi_duration": 5.004
+  },
+  {
+    "kepid": 9958387,
+    "kepoi_name": "K02677.01",
+    "koi_period": 237.787237,
+    "koi_time0bk": 196.97103,
+    "koi_depth": 1627.7,
+    "koi_duration": 10.509
+  },
+  {
+    "kepid": 7829836,
+    "kepoi_name": "K05433.01",
+    "koi_period": 237.819002,
+    "koi_time0bk": 320.1617,
+    "koi_depth": 614.2,
+    "koi_duration": 11.324
+  },
+  {
+    "kepid": 9958962,
+    "kepoi_name": "K00593.04",
+    "koi_period": 240.192808,
+    "koi_time0bk": 168.3047,
+    "koi_depth": 605.8,
+    "koi_duration": 9.72
+  },
+  {
+    "kepid": 11026582,
+    "kepoi_name": "K05854.01",
+    "koi_period": 240.57135,
+    "koi_time0bk": 239.50353,
+    "koi_depth": 921.5,
+    "koi_duration": 11.164
+  },
+  {
+    "kepid": 9227215,
+    "kepoi_name": "K07931.01",
+    "koi_period": 242.0367,
+    "koi_time0bk": 181.746,
+    "koi_depth": 333.3,
+    "koi_duration": 11.01
+  },
+  {
+    "kepid": 5966810,
+    "kepoi_name": "K03909.01",
+    "koi_period": 247.891041,
+    "koi_time0bk": 133.92838,
+    "koi_depth": 956.6,
+    "koi_duration": 18.363
+  },
+  {
+    "kepid": 7458743,
+    "kepoi_name": "K05393.01",
+    "koi_period": 248.421771,
+    "koi_time0bk": 230.379,
+    "koi_depth": 704,
+    "koi_duration": 4.187
+  },
+  {
+    "kepid": 6034379,
+    "kepoi_name": "K05226.01",
+    "koi_period": 249.35154,
+    "koi_time0bk": 133.929,
+    "koi_depth": 1637,
+    "koi_duration": 13.76
+  },
+  {
+    "kepid": 12168895,
+    "kepoi_name": "K05959.01",
+    "koi_period": 251.48808,
+    "koi_time0bk": 192.461,
+    "koi_depth": 305,
+    "koi_duration": 6.8
+  },
+  {
+    "kepid": 8703129,
+    "kepoi_name": "K02758.01",
+    "koi_period": 253.374581,
+    "koi_time0bk": 235.74025,
+    "koi_depth": 1104,
+    "koi_duration": 22.889
+  },
+  {
+    "kepid": 11465658,
+    "kepoi_name": "K05903.01",
+    "koi_period": 253.790434,
+    "koi_time0bk": 267.5242,
+    "koi_depth": 604,
+    "koi_duration": 3.702
+  },
+  {
+    "kepid": 10790401,
+    "kepoi_name": "K08031.01",
+    "koi_period": 254.336707,
+    "koi_time0bk": 200.5875,
+    "koi_depth": 398.4,
+    "koi_duration": 8.585
+  },
+  {
+    "kepid": 5425643,
+    "kepoi_name": "K05160.01",
+    "koi_period": 258.63797782,
+    "koi_time0bk": 385.721676,
+    "koi_depth": null,
+    "koi_duration": 7.11
+  },
+  {
+    "kepid": 10351947,
+    "kepoi_name": "K08205.01",
+    "koi_period": 260.446151,
+    "koi_time0bk": 235.469,
+    "koi_depth": 713.9,
+    "koi_duration": 9.314
+  },
+  {
+    "kepid": 11355925,
+    "kepoi_name": "K05890.01",
+    "koi_period": 263.30198,
+    "koi_time0bk": 308.8678,
+    "koi_depth": 377.6,
+    "koi_duration": 2.213
+  },
+  {
+    "kepid": 6425377,
+    "kepoi_name": "K05281.01",
+    "koi_period": 263.90141,
+    "koi_time0bk": 203.1723,
+    "koi_depth": 807.1,
+    "koi_duration": 4.303
+  },
+  {
+    "kepid": 9166700,
+    "kepoi_name": "K05632.01",
+    "koi_period": 264.466625,
+    "koi_time0bk": 134.96749,
+    "koi_depth": 437.3,
+    "koi_duration": 6.371
+  },
+  {
+    "kepid": 11072982,
+    "kepoi_name": "K05860.01",
+    "koi_period": 264.708077,
+    "koi_time0bk": 370.4525,
+    "koi_depth": 461.3,
+    "koi_duration": 3.975
+  },
+  {
+    "kepid": 3559935,
+    "kepoi_name": "K00492.02",
+    "koi_period": 265.29617,
+    "koi_time0bk": 297.8704,
+    "koi_depth": 608,
+    "koi_duration": 4.1
+  },
+  {
+    "kepid": 6934045,
+    "kepoi_name": "K05336.01",
+    "koi_period": 265.741374,
+    "koi_time0bk": 167.0573,
+    "koi_depth": 273.4,
+    "koi_duration": 18.078
+  },
+  {
+    "kepid": 8813698,
+    "kepoi_name": "K01268.01",
+    "koi_period": 268.9410974,
+    "koi_time0bk": 360.070904,
+    "koi_depth": 9010.2,
+    "koi_duration": 5.4434
+  },
+  {
+    "kepid": 5792202,
+    "kepoi_name": "K00841.04",
+    "koi_period": 269.306232,
+    "koi_time0bk": 285.6272,
+    "koi_depth": 1708,
+    "koi_duration": 14.931
+  },
+  {
+    "kepid": 7101726,
+    "kepoi_name": "K05352.01",
+    "koi_period": 270.1430241,
+    "koi_time0bk": 210.960799,
+    "koi_depth": null,
+    "koi_duration": 6.32
+  },
+  {
+    "kepid": 4833409,
+    "kepoi_name": "K05092.01",
+    "koi_period": 271.790292,
+    "koi_time0bk": 195.52243,
+    "koi_depth": 318.4,
+    "koi_duration": 2.944
+  },
+  {
+    "kepid": 3534076,
+    "kepoi_name": "K01209.01",
+    "koi_period": 272.0868353,
+    "koi_time0bk": 378.13721,
+    "koi_depth": 5572,
+    "koi_duration": 2.7145
+  },
+  {
+    "kepid": 7767162,
+    "kepoi_name": "K02869.02",
+    "koi_period": 274.743032,
+    "koi_time0bk": 300.5018,
+    "koi_depth": 309,
+    "koi_duration": 9.137
+  },
+  {
+    "kepid": 1025986,
+    "kepoi_name": "K07621.01",
+    "koi_period": 275.07365,
+    "koi_time0bk": 315.2486,
+    "koi_depth": 228.9,
+    "koi_duration": 3.37
+  },
+  {
+    "kepid": 9469494,
+    "kepoi_name": "K07938.01",
+    "koi_period": 275.5603,
+    "koi_time0bk": 237.0977,
+    "koi_depth": 89.4,
+    "koi_duration": 15.09
+  },
+  {
+    "kepid": 5094412,
+    "kepoi_name": "K05124.01",
+    "koi_period": 276.879492,
+    "koi_time0bk": 176.52152,
+    "koi_depth": 1762,
+    "koi_duration": 3.779
+  },
+  {
+    "kepid": 10978581,
+    "kepoi_name": "K05847.01",
+    "koi_period": 277.114286,
+    "koi_time0bk": 196.18868,
+    "koi_depth": 567.1,
+    "koi_duration": 3.926
+  },
+  {
+    "kepid": 10214341,
+    "kepoi_name": "K07992.01",
+    "koi_period": 277.13367,
+    "koi_time0bk": 400.4719,
+    "koi_depth": 321.2,
+    "koi_duration": 9.67
+  },
+  {
+    "kepid": 10907307,
+    "kepoi_name": "K08217.01",
+    "koi_period": 277.25118,
+    "koi_time0bk": 400.0395,
+    "koi_depth": 1517.4,
+    "koi_duration": 8.742
+  },
+  {
+    "kepid": 7630229,
+    "kepoi_name": "K00683.01",
+    "koi_period": 278.1243979,
+    "koi_time0bk": 177.51831,
+    "koi_depth": 2297.8,
+    "koi_duration": 3.978
+  },
+  {
+    "kepid": 11350634,
+    "kepoi_name": "K08050.01",
+    "koi_period": 278.38935,
+    "koi_time0bk": 299.537,
+    "koi_depth": 262.8,
+    "koi_duration": 10.43
+  },
+  {
+    "kepid": 8625408,
+    "kepoi_name": "K07073.01",
+    "koi_period": 279.036565,
+    "koi_time0bk": 246.6289,
+    "koi_depth": 395.2,
+    "koi_duration": 31.92
+  },
+  {
+    "kepid": 9210738,
+    "kepoi_name": "K05639.01",
+    "koi_period": 279.21957,
+    "koi_time0bk": 179.9274,
+    "koi_depth": 333.5,
+    "koi_duration": 10.015
+  },
+  {
+    "kepid": 6356506,
+    "kepoi_name": "K08263.01",
+    "koi_period": 280.55544,
+    "koi_time0bk": 308.0323,
+    "koi_depth": 401.4,
+    "koi_duration": 12.757
+  },
+  {
+    "kepid": 10878117,
+    "kepoi_name": "K05837.01",
+    "koi_period": 280.92070688,
+    "koi_time0bk": 154.8994005,
+    "koi_depth": null,
+    "koi_duration": 3.48
+  },
+  {
+    "kepid": 9512981,
+    "kepoi_name": "K01466.01",
+    "koi_period": 281.5628889,
+    "koi_time0bk": 357.996571,
+    "koi_depth": 21012,
+    "koi_duration": 8.853
+  },
+  {
+    "kepid": 6372194,
+    "kepoi_name": "K05278.01",
+    "koi_period": 281.5921577,
+    "koi_time0bk": 261.81786,
+    "koi_depth": 9312,
+    "koi_duration": 5.673
+  },
+  {
+    "kepid": 9994381,
+    "kepoi_name": "K05749.01",
+    "koi_period": 281.95332,
+    "koi_time0bk": 231.2826,
+    "koi_depth": 1039,
+    "koi_duration": 2.756
+  },
+  {
+    "kepid": 9596820,
+    "kepoi_name": "K05698.01",
+    "koi_period": 282.029084,
+    "koi_time0bk": 170.69,
+    "koi_depth": 312.8,
+    "koi_duration": 4.686
+  },
+  {
+    "kepid": 6197658,
+    "kepoi_name": "K05247.01",
+    "koi_period": 282.0309,
+    "koi_time0bk": 162.5448,
+    "koi_depth": 782,
+    "koi_duration": 14.69
+  },
+  {
+    "kepid": 2852810,
+    "kepoi_name": "K06097.03",
+    "koi_period": 282.34315,
+    "koi_time0bk": 261.7746,
+    "koi_depth": 220.5,
+    "koi_duration": 3.956
+  },
+  {
+    "kepid": 8099517,
+    "kepoi_name": "K05474.01",
+    "koi_period": 284.666844,
+    "koi_time0bk": 322.5718,
+    "koi_depth": 418,
+    "koi_duration": 2.752
+  },
+  {
+    "kepid": 9334027,
+    "kepoi_name": "K05657.01",
+    "koi_period": 284.699924,
+    "koi_time0bk": 257.6791,
+    "koi_depth": 371.1,
+    "koi_duration": 3.709
+  },
+  {
+    "kepid": 9947389,
+    "kepoi_name": "K04460.01",
+    "koi_period": 284.727213,
+    "koi_time0bk": 142.0923,
+    "koi_depth": 355.3,
+    "koi_duration": 10.299
+  },
+  {
+    "kepid": 11341266,
+    "kepoi_name": "K05886.01",
+    "koi_period": 284.87177,
+    "koi_time0bk": 333.9721,
+    "koi_depth": 106.7,
+    "koi_duration": 15.63
+  },
+  {
+    "kepid": 10064591,
+    "kepoi_name": "K05759.01",
+    "koi_period": 284.94212784,
+    "koi_time0bk": 359.5238684,
+    "koi_depth": null,
+    "koi_duration": 3.2
+  },
+  {
+    "kepid": 7213311,
+    "kepoi_name": "K05375.01",
+    "koi_period": 285.374561,
+    "koi_time0bk": 311.29883,
+    "koi_depth": 482.3,
+    "koi_duration": 4.865
+  },
+  {
+    "kepid": 10098540,
+    "kepoi_name": "K05764.01",
+    "koi_period": 286.02266,
+    "koi_time0bk": 373.7304,
+    "koi_depth": 1036,
+    "koi_duration": 10.43
+  },
+  {
+    "kepid": 11152511,
+    "kepoi_name": "K05874.01",
+    "koi_period": 287.33114,
+    "koi_time0bk": 360.8412,
+    "koi_depth": 406.7,
+    "koi_duration": 12.722
+  },
+  {
+    "kepid": 9776907,
+    "kepoi_name": "K05712.01",
+    "koi_period": 287.75613,
+    "koi_time0bk": 385.4564,
+    "koi_depth": 1987,
+    "koi_duration": 5.487
+  },
+  {
+    "kepid": 3863877,
+    "kepoi_name": "K05021.01",
+    "koi_period": 288.07937,
+    "koi_time0bk": 355.49261,
+    "koi_depth": 991,
+    "koi_duration": 3.161
+  },
+  {
+    "kepid": 8827930,
+    "kepoi_name": "K03801.01",
+    "koi_period": 288.3128666,
+    "koi_time0bk": 374.79958,
+    "koi_depth": 11181,
+    "koi_duration": 5.419
+  },
+  {
+    "kepid": 9209981,
+    "kepoi_name": "K05638.01",
+    "koi_period": 290.02002,
+    "koi_time0bk": 138.2587,
+    "koi_depth": 172.5,
+    "koi_duration": 23.87
+  },
+  {
+    "kepid": 4638237,
+    "kepoi_name": "K03811.01",
+    "koi_period": 290.1401717,
+    "koi_time0bk": 307.250618,
+    "koi_depth": 4836,
+    "koi_duration": 2.1583
+  },
+  {
+    "kepid": 11601972,
+    "kepoi_name": "K05919.01",
+    "koi_period": 290.196139,
+    "koi_time0bk": 264.8759,
+    "koi_depth": 281,
+    "koi_duration": 13.698
+  },
+  {
+    "kepid": 11616434,
+    "kepoi_name": "K05924.01",
+    "koi_period": 291.306507,
+    "koi_time0bk": 362.2906,
+    "koi_depth": 1132,
+    "koi_duration": 2.91
+  },
+  {
+    "kepid": 7979297,
+    "kepoi_name": "K05455.01",
+    "koi_period": 292.09809,
+    "koi_time0bk": 324.4378,
+    "koi_depth": 528.8,
+    "koi_duration": 14.43
+  },
+  {
+    "kepid": 11338091,
+    "kepoi_name": "K08221.01",
+    "koi_period": 293.38641,
+    "koi_time0bk": 308.6624,
+    "koi_depth": 94.9,
+    "koi_duration": 15.23
+  },
+  {
+    "kepid": 6765563,
+    "kepoi_name": "K05324.01",
+    "koi_period": 293.392635,
+    "koi_time0bk": 341.2263,
+    "koi_depth": 518.8,
+    "koi_duration": 3.661
+  },
+  {
+    "kepid": 10718726,
+    "kepoi_name": "K00600.02",
+    "koi_period": 294.055263,
+    "koi_time0bk": 421.853,
+    "koi_depth": 770,
+    "koi_duration": 14.32
+  },
+  {
+    "kepid": 8873873,
+    "kepoi_name": "K08174.01",
+    "koi_period": 295.06066,
+    "koi_time0bk": 314.2081,
+    "koi_depth": 72.2,
+    "koi_duration": 16.18
+  },
+  {
+    "kepid": 8644545,
+    "kepoi_name": "K05552.01",
+    "koi_period": 295.958914,
+    "koi_time0bk": 138.92548,
+    "koi_depth": 464.1,
+    "koi_duration": 4.244
+  },
+  {
+    "kepid": 7416016,
+    "kepoi_name": "K05387.01",
+    "koi_period": 297.78282,
+    "koi_time0bk": 233.4002,
+    "koi_depth": 392.4,
+    "koi_duration": 18.38
+  },
+  {
+    "kepid": 9821428,
+    "kepoi_name": "K07235.01",
+    "koi_period": 299.70688,
+    "koi_time0bk": 360.3939,
+    "koi_depth": 230.7,
+    "koi_duration": 15.39
+  }
+]

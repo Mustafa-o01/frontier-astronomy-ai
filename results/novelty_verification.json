@@ -1,0 +1,128 @@
+[
+  {
+    "target": {
+      "kepid": 9944201,
+      "koi": "K07259.01",
+      "claim": "Disintegrating Rocky Crust / Cometary Dust Tail"
+    },
+    "koi_meta": {
+      "kepid": 9944201,
+      "kepoi_name": "K07259.01",
+      "koi_disposition": "CANDIDATE",
+      "koi_pdisposition": "CANDIDATE",
+      "koi_score": 0.705,
+      "koi_period": 0.721522907,
+      "koi_depth": 22528,
+      "koi_teq": 1475.0,
+      "koi_prad": 11.04,
+      "koi_srad": 0.625,
+      "koi_steff": 4893.0
+    },
+    "is_novel_detection": true
+  },
+  {
+    "target": {
+      "kepid": 8494263,
+      "koi": "K01255.01",
+      "claim": "Exomoon Satellite via Orthogonal TTV/TDV"
+    },
+    "koi_meta": {
+      "kepid": 8494263,
+      "kepoi_name": "K01255.01",
+      "koi_disposition": "CANDIDATE",
+      "koi_pdisposition": "CANDIDATE",
+      "koi_score": 0.436,
+      "koi_period": 78.9257421,
+      "koi_depth": 17972,
+      "koi_teq": 398.0,
+      "koi_prad": 11.9,
+      "koi_srad": 0.882,
+      "koi_steff": 5750.0
+    },
+    "is_novel_detection": true
+  },
+  {
+    "target": {
+      "kepid": 10153011,
+      "koi": "K01773.01",
+      "claim": "Exomoon Satellite via Orthogonal TTV/TDV"
+    },
+    "koi_meta": {
+      "kepid": 10153011,
+      "kepoi_name": "K01773.01",
+      "koi_disposition": "CANDIDATE",
+      "koi_pdisposition": "CANDIDATE",
+      "koi_score": 0.0,
+      "koi_period": 83.09708021,
+      "koi_depth": 15860.2,
+      "koi_teq": 329.0,
+      "koi_prad": 13.83,
+      "koi_srad": 0.636,
+      "koi_steff": 5286.0
+    },
+    "is_novel_detection": true
+  },
+  {
+    "target": {
+      "kepid": 8308347,
+      "koi": "K03761.01",
+      "claim": "Co-Orbital Trojan Planet (L4/L5)"
+    },
+    "koi_meta": {
+      "kepid": 8308347,
+      "kepoi_name": "K03761.01",
+      "koi_disposition": "CANDIDATE",
+      "koi_pdisposition": "CANDIDATE",
+      "koi_score": 0.0,
+      "koi_period": 164.950399,
+      "koi_depth": 24493,
+      "koi_teq": 252.0,
+      "koi_prad": 11.23,
+      "koi_srad": 0.664,
+      "koi_steff": 5001.0
+    },
+    "is_novel_detection": true
+  },
+  {
+    "target": {
+      "kepid": 6867155,
+      "koi": "K00868.01",
+      "claim": "Co-Orbital Trojan Planet (L4/L5)"
+    },
+    "koi_meta": {
+      "kepid": 6867155,
+      "kepoi_name": "K00868.01",
+      "koi_disposition": "CANDIDATE",
+      "koi_pdisposition": "CANDIDATE",
+      "koi_score": 0.998,
+      "koi_period": 235.9986399,
+      "koi_depth": 20714.6,
+      "koi_teq": 188.0,
+      "koi_prad": 10.59,
+      "koi_srad": 0.657,
+      "koi_steff": 4245.0
+    },
+    "is_novel_detection": true
+  },
+  {
+    "target": {
+      "kepid": 12307496,
+      "koi": "K08078.01",
+      "claim": "Dust Tail Evaporation + Trojan"
+    },
+    "koi_meta": {
+      "kepid": 12307496,
+      "kepoi_name": "K08078.01",
+      "koi_disposition": "CANDIDATE",
+      "koi_pdisposition": "CANDIDATE",
+      "koi_score": 1.0,
+      "koi_period": 0.805941833,
+      "koi_depth": 3180.4,
+      "koi_teq": 1498.0,
+      "koi_prad": 29.85,
+      "koi_srad": 0.672,
+      "koi_steff": 5022.0
+    },
+    "is_novel_detection": true
+  }
+]

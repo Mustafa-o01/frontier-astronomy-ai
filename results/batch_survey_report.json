@@ -1,0 +1,140 @@
+[
+  {
+    "target_id": "KIC 12557548",
+    "mission": "Kepler",
+    "cadences": 4051,
+    "period_days": 0.6535538,
+    "t0": 120.5683,
+    "dust_tail": {
+      "is_detected": true,
+      "delta_bic": 8647.608605138315,
+      "asymmetry_alpha": 0.3780720810349299,
+      "lrt_p_value": 0.0,
+      "tail_length_phase": 0.15510276554489533
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "ttv_snr": 20.725662355239546,
+      "phase_shift_deg": 47.62408014230052,
+      "p_moon": 0.999,
+      "is_trojan_candidate": true
+    },
+    "verdict": "CANDIDATE DISINTEGRATING PLANET (Dust Tail) + CANDIDATE EXOMOON (P=99.9%) + CANDIDATE TROJAN CO-ORBITAL",
+    "runtime_seconds": 0.571638499997789
+  },
+  {
+    "target_id": "K2-22b",
+    "mission": "Kepler",
+    "cadences": 1515,
+    "period_days": 0.381078,
+    "t0": 1983.121,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -22.0592163439494,
+      "asymmetry_alpha": 0.13570859033637375,
+      "lrt_p_value": 1.0,
+      "tail_length_phase": 0.0170450786483565
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "ttv_snr": 10.92395259714281,
+      "phase_shift_deg": 0.0,
+      "p_moon": 0.001,
+      "is_trojan_candidate": false
+    },
+    "verdict": "Standard Symmetric Exoplanet / Null",
+    "runtime_seconds": 0.2901928999926895
+  },
+  {
+    "target_id": "KOI-2700b",
+    "mission": "Kepler",
+    "cadences": 1515,
+    "period_days": 0.910022,
+    "t0": 132.176,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -22.707802632321318,
+      "asymmetry_alpha": 0.8143072059734853,
+      "lrt_p_value": 1.0,
+      "tail_length_phase": 0.0780969659404291
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "ttv_snr": 20.316016008361,
+      "phase_shift_deg": 80.78202538319823,
+      "p_moon": 0.999,
+      "is_trojan_candidate": false
+    },
+    "verdict": "CANDIDATE EXOMOON (P=99.9%)",
+    "runtime_seconds": 0.1488818999787327
+  },
+  {
+    "target_id": "WD 1145+017",
+    "mission": "Kepler",
+    "cadences": 1515,
+    "period_days": 0.1876,
+    "t0": 2062.15,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -18.5339573541994,
+      "asymmetry_alpha": 0.9015933176906472,
+      "lrt_p_value": 0.32921713508234873,
+      "tail_length_phase": 0.011019287852320387
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "ttv_snr": 16.447762363102772,
+      "phase_shift_deg": 0.0,
+      "p_moon": 0.001,
+      "is_trojan_candidate": false
+    },
+    "verdict": "Standard Symmetric Exoplanet / Null",
+    "runtime_seconds": 0.43436729998211376
+  },
+  {
+    "target_id": "Kepler-1625b",
+    "mission": "Kepler",
+    "cadences": 58765,
+    "period_days": 287.3789,
+    "t0": 169.825,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -32.71495291641622,
+      "asymmetry_alpha": 0.0,
+      "lrt_p_value": 0.9727853896175034,
+      "tail_length_phase": 0.015874710537678645
+    },
+    "perturbations": {
+      "is_exomoon_candidate": true,
+      "ttv_snr": 23.235284687108845,
+      "phase_shift_deg": 105.41495011600674,
+      "p_moon": 0.999,
+      "is_trojan_candidate": false
+    },
+    "verdict": "CANDIDATE EXOMOON (P=99.9%)",
+    "runtime_seconds": 0.58364139997866
+  },
+  {
+    "target_id": "Kepler-1708b",
+    "mission": "Kepler",
+    "cadences": 6080,
+    "period_days": 737.11,
+    "t0": 289.95,
+    "dust_tail": {
+      "is_detected": false,
+      "delta_bic": -25.80487485678441,
+      "asymmetry_alpha": 0.0,
+      "lrt_p_value": 0.9536281864924948,
+      "tail_length_phase": 0.0064750000000000085
+    },
+    "perturbations": {
+      "is_exomoon_candidate": false,
+      "ttv_snr": 0.0,
+      "phase_shift_deg": 0.0,
+      "p_moon": 0.01,
+      "is_trojan_candidate": false
+    },
+    "verdict": "Standard Symmetric Exoplanet / Null",
+    "runtime_seconds": 0.06811900000320747
+  }
+]

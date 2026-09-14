@@ -1,0 +1,31 @@
+{
+  "target_id": "KIC 12557548",
+  "archive": "kepler",
+  "period": 0.6535538,
+  "t0": 120.5683,
+  "cadences": 4051,
+  "mode": "all",
+  "dust_tail": {
+    "is_asymmetric_dust_tail": true,
+    "delta_bic": 8647.608605138315,
+    "lrt_p_value": 0.0,
+    "asymmetry_parameter": 0.3780720810349299,
+    "peak_depth": 0.0020468832644742314,
+    "tail_decay_length": 0.15510276554489533,
+    "depth_variance": 8.916604601320168e-08
+  },
+  "is_asymmetric_dust_tail": true,
+  "delta_bic": 8647.608605138315,
+  "perturbations": {
+    "has_exomoon_candidate": true,
+    "ttv_snr": 20.725662355239546,
+    "orthogonal_phase_diff_deg": 47.62408014230052,
+    "has_secondary_shoulder": true,
+    "shoulder_snr": 58.76800320440395,
+    "has_trojan_candidate": true,
+    "trojan_lag_depth": 0.0004582345803321175,
+    "p_moon_posterior": 0.999
+  },
+  "has_exomoon_candidate": true,
+  "ttv_snr": 20.725662355239546
+}

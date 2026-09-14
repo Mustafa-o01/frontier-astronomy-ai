@@ -1,0 +1,24 @@
+{
+  "tier": "all",
+  "evaluations": [
+    {
+      "target": "KIC 12557548",
+      "delta_bic": 30399.819567866864,
+      "asymmetry": 0.7102664725801889,
+      "status": "PASS"
+    },
+    {
+      "target": "Kepler-1625b",
+      "ttv_snr": 79.5401983298756,
+      "phase_shift_deg": 104.3209320128197,
+      "status": "PASS"
+    },
+    {
+      "target": "WASP-39b",
+      "runtime_seconds": 0.03686529997503385,
+      "log_co2": -3.356213211453997,
+      "log_h2o": -3.392962072655907,
+      "status": "PASS"
+    }
+  ]
+}

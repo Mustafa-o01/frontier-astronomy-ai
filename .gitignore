@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Temporary visual assets / screenshots
+*.png.tmp
+paper/preview_shot.png
+paper/styled_shot.png
+paper/mathml_shot.png
+paper/math_test.html
+paper/math_test.png
+paper/manuscript_mathml.html
+paper/MANUSCRIPT_CLEAN.md
+RESEARCH_PAPER_CLEAN.md
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,125 @@
+{
+  "retrieved_utc": "2026-09-14T18:45:42.402565+00:00",
+  "files": [
+    {
+      "kepid": 9944201,
+      "file": "kplr009944201-2009166043257_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0099/009944201/kplr009944201-2009166043257_llc.fits",
+      "local_sha256": "c9fa70d4f1cf4c4228169d5a308f1092497160783f59b6062f6497c1b45ee259",
+      "remote_sha256": "c9fa70d4f1cf4c4228169d5a308f1092497160783f59b6062f6497c1b45ee259",
+      "status": 200,
+      "bytes": 192960,
+      "identical": true
+    },
+    {
+      "kepid": 9944201,
+      "file": "kplr009944201-2009259160929_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0099/009944201/kplr009944201-2009259160929_llc.fits",
+      "local_sha256": "f78c4661f100d47c73ea8b3bc0f67234eeeca3d6fee0384245b8386c93a807e6",
+      "remote_sha256": "f78c4661f100d47c73ea8b3bc0f67234eeeca3d6fee0384245b8386c93a807e6",
+      "status": 200,
+      "bytes": 466560,
+      "identical": true
+    },
+    {
+      "kepid": 9944201,
+      "file": "kplr009944201-2009350155506_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0099/009944201/kplr009944201-2009350155506_llc.fits",
+      "local_sha256": "a8cfa50d1a7dca98bc8fc601431c4af79afa69541ef9a5a3c2cb7e269a00723e",
+      "remote_sha256": "a8cfa50d1a7dca98bc8fc601431c4af79afa69541ef9a5a3c2cb7e269a00723e",
+      "status": 200,
+      "bytes": 466560,
+      "identical": true
+    },
+    {
+      "kepid": 8494263,
+      "file": "kplr008494263-2010078095331_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0084/008494263/kplr008494263-2010078095331_llc.fits",
+      "local_sha256": "44322035b66aa673f47528700ca61aa8e4984967b949c51290fcea8f7eb8dfdd",
+      "remote_sha256": "44322035b66aa673f47528700ca61aa8e4984967b949c51290fcea8f7eb8dfdd",
+      "status": 200,
+      "bytes": 469440,
+      "identical": true
+    },
+    {
+      "kepid": 8494263,
+      "file": "kplr008494263-2010174085026_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0084/008494263/kplr008494263-2010174085026_llc.fits",
+      "local_sha256": "c51aeeca78bde3a6ed2445ea802c07667fd2d68684fe25d404d227d4475f22cb",
+      "remote_sha256": "c51aeeca78bde3a6ed2445ea802c07667fd2d68684fe25d404d227d4475f22cb",
+      "status": 200,
+      "bytes": 492480,
+      "identical": true
+    },
+    {
+      "kepid": 8494263,
+      "file": "kplr008494263-2010265121752_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0084/008494263/kplr008494263-2010265121752_llc.fits",
+      "local_sha256": "6a633e13e5e80e62399534aaaa9e0ce9eec203e754a930796d7ba2c25041664a",
+      "remote_sha256": "6a633e13e5e80e62399534aaaa9e0ce9eec203e754a930796d7ba2c25041664a",
+      "status": 200,
+      "bytes": 469440,
+      "identical": true
+    },
+    {
+      "kepid": 10153011,
+      "file": "kplr010153011-2009259160929_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0101/010153011/kplr010153011-2009259160929_llc.fits",
+      "local_sha256": "4554f1b18039cdacd8fefdf28ff7a2c09d9f37a3a07dbcb25b90762df5af1089",
+      "remote_sha256": "4554f1b18039cdacd8fefdf28ff7a2c09d9f37a3a07dbcb25b90762df5af1089",
+      "status": 200,
+      "bytes": 466560,
+      "identical": true
+    },
+    {
+      "kepid": 10153011,
+      "file": "kplr010153011-2009350155506_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0101/010153011/kplr010153011-2009350155506_llc.fits",
+      "local_sha256": "13405bb2c7cc840771d92498d56c65a48b364c94e2ee1e994dcb7a9f8fc82aba",
+      "remote_sha256": "13405bb2c7cc840771d92498d56c65a48b364c94e2ee1e994dcb7a9f8fc82aba",
+      "status": 200,
+      "bytes": 466560,
+      "identical": true
+    },
+    {
+      "kepid": 10153011,
+      "file": "kplr010153011-2010078095331_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0101/010153011/kplr010153011-2010078095331_llc.fits",
+      "local_sha256": "ad582a28714872a6dc0fe7b19d8bc08fa840ef6a0ad39488d215f97366b0cecf",
+      "remote_sha256": "ad582a28714872a6dc0fe7b19d8bc08fa840ef6a0ad39488d215f97366b0cecf",
+      "status": 200,
+      "bytes": 469440,
+      "identical": true
+    },
+    {
+      "kepid": 8308347,
+      "file": "kplr008308347-2010078095331_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0083/008308347/kplr008308347-2010078095331_llc.fits",
+      "local_sha256": "b8fd97e1f8e968cbbf457b7e699599bc502884e2f332fddec057381a1fa8d8d0",
+      "remote_sha256": "b8fd97e1f8e968cbbf457b7e699599bc502884e2f332fddec057381a1fa8d8d0",
+      "status": 200,
+      "bytes": 469440,
+      "identical": true
+    },
+    {
+      "kepid": 8308347,
+      "file": "kplr008308347-2010174085026_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0083/008308347/kplr008308347-2010174085026_llc.fits",
+      "local_sha256": "b1b6cd1d28e699783499d368bf81a3428fe557c9371dc0069923e764c1f96f0d",
+      "remote_sha256": "b1b6cd1d28e699783499d368bf81a3428fe557c9371dc0069923e764c1f96f0d",
+      "status": 200,
+      "bytes": 492480,
+      "identical": true
+    },
+    {
+      "kepid": 8308347,
+      "file": "kplr008308347-2010265121752_llc.fits",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0083/008308347/kplr008308347-2010265121752_llc.fits",
+      "local_sha256": "addcbec3f55bcc8701474163408380dcc5d9fca982dedc8d20d1c87f8bd42b17",
+      "remote_sha256": "addcbec3f55bcc8701474163408380dcc5d9fca982dedc8d20d1c87f8bd42b17",
+      "status": 200,
+      "bytes": 469440,
+      "identical": true
+    }
+  ]
+}
