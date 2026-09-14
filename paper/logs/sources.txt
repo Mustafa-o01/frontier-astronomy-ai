@@ -1,8 +1,0 @@
-{
-  "retrieved_utc": "2026-09-14T18:45:29.926063+00:00",
-  "endpoint": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync",
-  "query": "select kepid,kepoi_name,koi_disposition,koi_pdisposition,koi_score,koi_period,koi_time0bk,koi_duration,koi_depth,koi_teq,koi_prad,koi_srad,koi_steff from cumulative where kepid in (9944201,8494263,10153011,8308347)",
-  "success": true,
-  "url": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+kepid%2Ckepoi_name%2Ckoi_disposition%2Ckoi_pdisposition%2Ckoi_score%2Ckoi_period%2Ckoi_time0bk%2Ckoi_duration%2Ckoi_depth%2Ckoi_teq%2Ckoi_prad%2Ckoi_srad%2Ckoi_steff+from+cumulative+where+kepid+in+%289944201%2C8494263%2C10153011%2C8308347%29&format=json"
-}
-[('kplr009944201-2009166043257_llc.fits', True, None), ('kplr009944201-2009259160929_llc.fits', True, None), ('kplr009944201-2009350155506_llc.fits', True, None), ('kplr008494263-2010078095331_llc.fits', True, None), ('kplr008494263-2010174085026_llc.fits', True, None), ('kplr008494263-2010265121752_llc.fits', True, None), ('kplr010153011-2009259160929_llc.fits', True, None), ('kplr010153011-2009350155506_llc.fits', True, None), ('kplr010153011-2010078095331_llc.fits', True, None), ('kplr008308347-2010078095331_llc.fits', True, None), ('kplr008308347-2010174085026_llc.fits', True, None), ('kplr008308347-2010265121752_llc.fits', True, None)]

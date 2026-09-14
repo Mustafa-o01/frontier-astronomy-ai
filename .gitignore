@@ -8,19 +8,25 @@ __pycache__/
 dist/
 build/
 
-# Temporary visual assets / screenshots
-*.png.tmp
+# Temporary files & logs
+*.tmp
 paper/preview_shot.png
 paper/styled_shot.png
 paper/mathml_shot.png
-paper/math_test.html
-paper/math_test.png
-paper/manuscript_mathml.html
+paper/math_test.*
+paper/manuscript*.html
 paper/MANUSCRIPT_CLEAN.md
+paper/logs/
+RESEARCH_PAPER*.html
 RESEARCH_PAPER_CLEAN.md
+
+# Large raw telescope binary downloads
+data/cache/
 
 # OS and Editor files
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+.agents/
+benchmark_results/
